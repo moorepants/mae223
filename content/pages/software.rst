@@ -15,8 +15,8 @@ Running The Software
 ====================
 
 Log into bicycle.ucdavis.edu with your UCD email address to access our local
-JupyterHub server. You can then either create a new terminal session or a
-"Python 3" Jupyter notebook.
+JupyterHub server at http://bicycle.ucdavis.edu. You can then either create a
+new terminal session or a "Python 3" Jupyter notebook.
 
 Installing the Software On Your Personal Computer
 =================================================

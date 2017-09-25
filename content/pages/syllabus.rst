@@ -51,9 +51,7 @@ Prerequites
 
 The only required prerequisite is Engineering 102 or a similar course in
 introductory dynamics. You should also be proficient at at least one scientific
-programming language. [#]_
-
-.. [#] We will be using Python in class.
+programming language. We will be using Python in class.
 
 Instructor
 ==========
@@ -101,10 +99,8 @@ textbook:
    McGraw Hill, 1985. http://hdl.handle.net/1813/638.
 
 Note that the book is out of print, but you can download a PDF copy from
-Cornell's eCommons digital repository for personal use.
-
-Additionally, the following book may also be a useful reference for some
-topics:
+Cornell's eCommons digital repository for personal use. Additionally, the
+following book may also be a useful reference for some topics:
 
    Thomas R. Kane, Peter W. Likins, and David A. Levinson. Spacecraft Dynamics.
    McGraw Hill, 1983. http://hdl.handle.net/1813/637.
@@ -112,7 +108,7 @@ topics:
 There are many advanced dynamics books that provide useful information but
 these two present the material in the context and notation that we will use in
 class. Other useful references will be added to the resources tab of this
-website.
+website as we move through the course.
 
 Software
 ========
@@ -123,8 +119,8 @@ programming language and leverage the SciPy ecosystem of scientific and
 engineering computing tools. You will have access to these through our
 JupyterHub server at bicycle.ucdavis.edu_. You may also install the software on
 your own computer. You will need to bring your laptop, tablet, or phone to
-class to follow along with the interactive sessions. See the software page on
-this website for more information.
+class to follow along with the interactive sessions. See the `software page`_
+on this website for more information.
 
 .. _PyDy: http://pydy.org
 .. _SymPy: http://sympy.org
