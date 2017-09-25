@@ -10,7 +10,7 @@ Date           Topic                                 Materials        Assignment
 W Sep 27       - Introduction
                - Vector Calculus Review
 -------------  ------------------------------------  ---------------  -----
-M Oct 02       Reference Frames and Angular Rotation
+M Oct 02       Reference Frames, Angular Rotation
 W Oct 04       Angular Acceleration
 -------------  ------------------------------------  ---------------  -----
 M Oct 09       Points and Linear Motion

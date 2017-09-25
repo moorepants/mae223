@@ -12,36 +12,36 @@ Course Description
 | Fall 2017, Lecture: MW 10:00-11:50 AM
 | CRN: 63597
 
-After the completion of this class you will have developed the initial skills
-to model, interpret, simulate, and analyze `multibody systems`_, i.e. systems
-which are made up of interconnected rigid bodies with arbitrary constraints and
-applied loads. Mathematical models of multibody systems are typically very
-useful at predicting the "macro scaled" [1]_ motion of real objects. Newton's
-laws of motion are the foundation of developing predictive models of these
-systems.  Examples of systems you will be able to model are: spacecraft
-trajectories, human/animal biomechanics, vehicle motion, robot motion, etc.
+After the completion of this class you will have developed the skills to model,
+interpret, simulate, and analyze `multibody systems`_, i.e. systems which are
+made up of interconnected rigid bodies with arbitrary constraints and applied
+loads. Mathematical models of multibody systems are typically very useful at
+predicting the "macro scaled" [1]_ motion of real objects. Newton's laws of
+motion are the foundation of developing predictive models of these systems.
+Examples of systems you will be able to model are: spacecraft trajectories,
+human/animal biomechanics, vehicle motion, robot motion, etc.
 
 .. _multibody systems: https://en.wikipedia.org/wiki/Multibody_system
 
-.. [1] As opposed to quantum scale.
+.. [1] As opposed to quantum scaled.
 
 Catalog Description
 -------------------
 
-Lecture—4 hours. Prerequisite: Engineering 102. Coupled rigid-body
-kinematics/dynamics; reference frames; vector differentiation; configuration
-and motion constraints; holonomicity; generalized speeds; partial velocities;
-mass; inertia tensor/theorems; angular momentum; generalized forces; comparing
-Newton/Euler, Lagrange's, Kane's methods; computer-aided equation derivation;
-orientation; Euler; Rodrigues parameters. (Same course as Biomedical
-Engineering 223.)—W, S. (W.) Eke, Ravani
+   Lecture—4 hours. Prerequisite: Engineering 102. Coupled rigid-body
+   kinematics/dynamics; reference frames; vector differentiation; configuration
+   and motion constraints; holonomicity; generalized speeds; partial
+   velocities; mass; inertia tensor/theorems; angular momentum; generalized
+   forces; comparing Newton/Euler, Lagrange's, Kane's methods; computer-aided
+   equation derivation; orientation; Euler; Rodrigues parameters. (Same course
+   as Biomedical Engineering 223.)—W, S. (W.) Eke, Ravani
 
 Learning Objectives
 -------------------
 
 Students will be able to:
 
-- model multibody systems
+- formulate a model and free body diagram of multibody systems
 - derive the equations of motion of a multibody system
 - incorporate holonomic and nonholonomic constraints into a multibody system
 - simulate the motion of a multibody system with a computer
@@ -72,9 +72,6 @@ first week of class (emergencies will be the only exception).**
 Office Hours
 ============
 
-Instructor Office Hours
------------------------
-
 Office hours are TBA. If you can't make the regular scheduled office hours,
 check Jason's `work calendar`_ for an open time slot between 8AM and 6:30PM on
 weekdays and email him with a request for a meeting.
@@ -98,8 +95,8 @@ Course Text and Materials
 The majority of preparation and readings for the lectures will come from this
 textbook:
 
-Thomas R. Kane, and David A. Levinson. Dynamics, Theory and Application. McGraw
-Hill, 1985. http://hdl.handle.net/1813/638.
+   Thomas R. Kane, and David A. Levinson. Dynamics, Theory and Application.
+   McGraw Hill, 1985. http://hdl.handle.net/1813/638.
 
 Note that the book is out of print, but you can download a PDF copy from
 Cornell's eCommons digital repository for personal use.
@@ -107,8 +104,8 @@ Cornell's eCommons digital repository for personal use.
 Additionally, the following book may also be a useful reference for some
 topics:
 
-Thomas R. Kane, Peter W. Likins, and David A. Levinson. Spacecraft Dynamics.
-McGraw Hill, 1983. http://hdl.handle.net/1813/637.
+   Thomas R. Kane, Peter W. Likins, and David A. Levinson. Spacecraft Dynamics.
+   McGraw Hill, 1983. http://hdl.handle.net/1813/637.
 
 There are many advanced dynamics books that provide useful information but
 these two present the material in the context and notation that we will use in
@@ -148,6 +145,7 @@ per business day late** on any graded assignments.
 .. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
 
 =========================  ===
+Assignment                 %
 =========================  ===
 Exam 1                     30%
 Exam 2                     30%
