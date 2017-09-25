@@ -16,14 +16,13 @@ After the completion of this class you will have developed the skills to model,
 interpret, simulate, and analyze `multibody systems`_, i.e. systems which are
 made up of interconnected rigid bodies with arbitrary constraints and applied
 loads. Mathematical models of multibody systems are typically very useful at
-predicting the "macro scaled" [1]_ motion of real objects. Newton's laws of
-motion are the foundation of developing predictive models of these systems.
-Examples of systems you will be able to model are: spacecraft trajectories,
-human/animal biomechanics, vehicle motion, robot motion, etc.
+predicting the motion of macro scale objects. `Newton's laws of motion`_ are
+the foundation of developing predictive models of these systems.  Examples of
+systems you will be able to model are: spacecraft trajectories, human/animal
+biomechanics, vehicle motion, robot motion, etc.
 
 .. _multibody systems: https://en.wikipedia.org/wiki/Multibody_system
-
-.. [1] As opposed to quantum scaled.
+.. _Newton's laws of motion: https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
 
 Catalog Description
 -------------------
@@ -45,13 +44,16 @@ Students will be able to:
 - derive the equations of motion of a multibody system
 - incorporate holonomic and nonholonomic constraints into a multibody system
 - simulate the motion of a multibody system with a computer
+- interpret and analyze the results of simulation
 
 Prerequites
 -----------
 
 The only required prerequisite is Engineering 102 or a similar course in
 introductory dynamics. You should also be proficient at at least one scientific
-programming language.
+programming language. [#]_
+
+.. [#] We will be using Python in class.
 
 Instructor
 ==========
@@ -135,7 +137,7 @@ Being a graduate class, we will not be focused on grading many different
 detailed aspects of the class. You will be expected to do as much or little
 practice as needed to pass the exams and complete your project. Homework
 problems will be suggested but not graded. I recommend talking through homework
-solutions with you classmates and me during office hours.
+solutions with your classmates and me during office hours.
 
 Grades will be available in the canvas.ucdavis.edu_ grade book periodically
 throughout the course along with class statistics. Check the website on a

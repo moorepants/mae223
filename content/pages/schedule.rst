@@ -8,6 +8,7 @@ changes.**
 Date           Topic                                 Materials        Assignment Due
 =============  ====================================  ===============  =====
 W Sep 27       - Introduction
+               - Jupyter Introduction
                - Vector Calculus Review
 -------------  ------------------------------------  ---------------  -----
 M Oct 02       Reference Frames, Angular Rotation
@@ -40,8 +41,8 @@ F Nov 24       Thanksgiving Holiday
 M Nov 27       Linearization of the EoMs
 W Nov 29       Collisions
 -------------  ------------------------------------  ---------------  -----
-M Dec 04       TBA                                                    Exam 2 Due
-W Dec 06       Review of Alternative Methods
+M Dec 04       Review of Alternative Methods                          Exam 2 Due
+W Dec 06       Optimal Trajectories
 -------------  ------------------------------------  ---------------  -----
 ?              Project Presentations
 W Dec 13                                                              Project Report Due
