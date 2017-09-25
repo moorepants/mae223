@@ -125,6 +125,7 @@ on this website for more information.
 .. _PyDy: http://pydy.org
 .. _SymPy: http://sympy.org
 .. _bicycle.ucdavis.edu: https://bicycle.ucdavis.edu
+.. _software page: {filename}/pages/software.rst
 
 Assignments & Grades
 ====================
