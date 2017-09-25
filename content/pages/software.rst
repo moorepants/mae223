@@ -8,6 +8,9 @@ is PyDy_ which is a simulation and visualization tool for models created with
 SymPy. Both of these are open source software packages and are part of the
 Scientific Python ecosystem of software packages.
 
+.. _SymPy: http://sympy.org
+.. _PyDy: http://pydy.org
+
 Running The Software
 ====================
 
