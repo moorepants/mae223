@@ -43,7 +43,7 @@ W Nov 29       Collisions
 -------------  ------------------------------------  ---------------  -----
 M Dec 04       TBA                                                    Exam 2
 W Dec 06       Optimal Trajectories
+U Dec 10                                                              Project Report Due
 -------------  ------------------------------------  ---------------  -----
 ?              Project Presentations
-U Dec 10                                                              Project Report Due
 =============  ====================================  ===============  =====
