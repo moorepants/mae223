@@ -65,8 +65,8 @@ Sunday December 10th
 The final report is due. No submissions will be accepted after this date due to
 the time needed to grade them.
 
-Exam Date TBA
--------------
+TBA
+---
 
 You will present a 5 minute lightning talk to the class explaining your
 project, methods, and the results.

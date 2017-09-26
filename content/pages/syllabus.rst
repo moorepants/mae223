@@ -137,9 +137,7 @@ problems will be suggested but not graded. I recommend talking through homework
 solutions with your classmates and me during office hours.
 
 Grades will be available in the canvas.ucdavis.edu_ grade book periodically
-throughout the course along with class statistics. Check the website on a
-regular basis to gauge your performance. Keep in mind that **15% is deducted
-per business day late** on any graded assignments.
+throughout the course along with class statistics.
 
 .. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
 
