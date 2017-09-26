@@ -1,5 +1,5 @@
 :title: Software
-:sortorder: 3
+:sortorder: 2
 
 I will be using two main pieces of software to demonstrate the principles in
 the class. The first is SymPy_ which a computer algebra system that includes a
