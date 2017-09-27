@@ -20,7 +20,7 @@ W Oct 11       Linear Velocity and Acceleration
 M Oct 16       Configuration Constraints             Ch 2.9           Project Proposal Due
 W Oct 18       Motion Constraints                    Ch 2.13
 -------------  ------------------------------------  ---------------  -----
-M Oct 23       Gen. Speeds, Partial Velocities       2.14             HW 03
+M Oct 23       Gen. Speeds, Partial Velocities       2.14
 W Oct 25       Mass and Inertia                      Ch. 3.1-3.5
 -------------  ------------------------------------  ---------------  -----
 M Oct 30       Principal Moments of Inertia          Ch. 3.6-3.9      Exam 1
