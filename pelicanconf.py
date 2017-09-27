@@ -17,7 +17,7 @@ DEFAULT_LANG = u'en'
 
 TEMPLATE_PAGES = {'projects.html': 'projects.html'}
 
-STATIC_PATHS = ['images', 'docs']
+STATIC_PATHS = ['lecture-notes', 'lecture-notebooks']
 
 # NOTE: The order here is important. The last item is the first to be searched
 # it seems.

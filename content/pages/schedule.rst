@@ -7,9 +7,9 @@ changes.**
 =============  ====================================  ===============  =====
 Date           Topic                                 Materials        Assignment Due
 =============  ====================================  ===============  =====
-W Sep 27       - Introduction                        Ch 1
-               - Jupyter Introduction
-               - Vector Calculus Review
+W Sep 27       - Introduction                        - Ch 1
+               - Jupyter Introduction                - `Notes L1`_
+               - Vector Calculus Review              - `IPYNB L1`_
 -------------  ------------------------------------  ---------------  -----
 M Oct 02       Reference Frames, Angular Rotation    Ch. 1.2
 W Oct 04       Angular Velocity and Acceleration     Ch 2.1-2.5
@@ -61,3 +61,7 @@ These are suggested problem sets from the text book:
 - Problem Set 6: 1, 7, 8
 - Problem Set 7: 1, 2, 7
 - Problem Set 8: 1, 2, 3, 4, 6
+
+.. _Notes L1: {filename}/lecture-notes/mae223-l1.pdf
+
+.. _IPYNB L1: {filename}/lecture-notebooks/mae223-l1.ipynb
