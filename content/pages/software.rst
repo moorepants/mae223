@@ -55,5 +55,8 @@ For beginning Python, I recommend ThinkPython_ by Allen Downey.
 
 .. _ThinkPython: http://greenteapress.com/wp/think-python/
 
+For Matlab users: `NumPy for Matlab Users
+<https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html>`_.
+
 There are thousands of other online resources that cover the full spectrum of
 using Python for scientific and engineering computing.
