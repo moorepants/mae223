@@ -10,6 +10,7 @@ Date           Topic                                 Materials        Assignment
 W Sep 27       - Introduction                        - Ch 1
                - Jupyter Introduction                - `Notes L1`_
                - Vector Calculus Review              - `IPYNB L1`_
+                                                     - `Video L1`_
 -------------  ------------------------------------  ---------------  -----
 M Oct 02       Reference Frames, Angular Rotation    Ch. 1.2
 W Oct 04       Angular Velocity and Acceleration     Ch 2.1-2.5
@@ -65,3 +66,5 @@ These are suggested problem sets from the text book:
 .. _Notes L1: {filename}/lecture-notes/mae223-l1.pdf
 
 .. _IPYNB L1: {filename}/lecture-notebooks/mae223-l1.ipynb
+
+.. _Video L1: https://youtu.be/1Tyxgv7RUdk
