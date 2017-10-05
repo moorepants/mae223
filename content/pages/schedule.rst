@@ -12,8 +12,12 @@ W Sep 27       - Introduction                        - Ch 1
                - Vector Calculus Review              - `IPYNB L1`_
                                                      - `Video L1`_
 -------------  ------------------------------------  ---------------  -----
-M Oct 02       Reference Frames, Angular Rotation    Ch. 1.2
-W Oct 04       Angular Velocity and Acceleration     Ch 2.1-2.5
+M Oct 02       Reference Frames, Angular Rotation    - Ch. 1.2
+                                                     - `Notes L2`_
+                                                     - `IPYNB L2`_
+W Oct 04       Angular Velocity and Acceleration     - Ch 2.1-2.5
+                                                     - `Notes L3`_
+                                                     - `IPYNB L3`_
 -------------  ------------------------------------  ---------------  -----
 M Oct 09       Points and Linear Motion              Ch. 2.6-2.8
 W Oct 11       Linear Velocity and Acceleration
@@ -64,7 +68,11 @@ These are suggested problem sets from the text book:
 - Problem Set 8: 1, 2, 3, 4, 6
 
 .. _Notes L1: {filename}/lecture-notes/mae223-l1.pdf
+.. _Notes L2: {filename}/lecture-notes/mae223-l2.pdf
+.. _Notes L3: {filename}/lecture-notes/mae223-l3.pdf
 
-.. _IPYNB L1: {filename}/lecture-notebooks/mae223-l1.ipynb
+.. _IPYNB L1: {filename}/lecture-notebooks/mae223_l1.ipynb
+.. _IPYNB L2: {filename}/lecture-notebooks/mae223_l2.ipynb
+.. _IPYNB L3: {filename}/lecture-notebooks/mae223_l3.ipynb
 
 .. _Video L1: https://youtu.be/1Tyxgv7RUdk
