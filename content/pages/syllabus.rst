@@ -72,10 +72,10 @@ first week of class (emergencies will be the only exception).**
 Office Hours
 ============
 
-Office hours are Tuesdays 1:10 pm to 2:00 pm and Thursdays 10:00 am to 10:50
-am. If you can't make the regular scheduled office hours, check Jason's `work
-calendar`_ for an open time slot between 8:00 am and 6:30 pm Monday through
-Thursday and email him with a request for a meeting.
+Office hours are Tuesdays 1:10 pm to 2:00 pm and Thursdays 10:00 am to 10:50 am
+in Bainer 2095. If you can't make the regular scheduled office hours, check
+Jason's `work calendar`_ for an open time slot between 8:00 am and 6:30 pm
+Monday through Thursday and email him with a request for a meeting.
 
 .. _work calendar: http://www.moorepants.info/work-calendar.html
 
