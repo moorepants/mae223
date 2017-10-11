@@ -48,7 +48,7 @@ Your grade will be based on the following aspects:
 Deadlines
 =========
 
-Monday October 16th
+Friday October 20th
 -------------------
 
 Report to me in writing the system of your choice, including a motivation for

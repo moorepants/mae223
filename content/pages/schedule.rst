@@ -22,8 +22,9 @@ W Oct 04       Angular Velocity and Acceleration     - Ch 2.1-2.5
 M Oct 09       Points and Linear Motion              Ch. 2.6-2.8
 W Oct 11       Linear Velocity and Acceleration
 -------------  ------------------------------------  ---------------  -----
-M Oct 16       Configuration Constraints             Ch 2.9           Project Proposal Due
+M Oct 16       Configuration Constraints             Ch 2.9
 W Oct 18       Motion Constraints                    Ch 2.13
+F Oct 20                                                              Project Proposal Due
 -------------  ------------------------------------  ---------------  -----
 M Oct 23       Gen. Speeds, Partial Velocities       2.14
 W Oct 25       Mass and Inertia                      Ch. 3.1-3.5
