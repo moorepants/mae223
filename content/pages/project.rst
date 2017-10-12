@@ -82,3 +82,15 @@ examples:
 - The PyDy Human Standing Tutorial: https://github.com/pydy/pydy-tutorial-human-standing
 - CFDPython: https://github.com/barbagroup/CFDPython
 - Notebook gallery: http://nb.bianp.net/sort/views/
+
+Where to Find Ideas
+===================
+
+- The mechanical_gifs subreddit usually has all kinds of fun machines that may
+  inspire. http://reddit.com/r/mechanical_gifs
+- The Journal of Multibody Dynamics http://journals.sagepub.com/home/pik
+- Multibody System Dynamics Journal http://www.springer.com/engineering/mechanics/journal/11044
+- Journal of Applied Mechanics http://appliedmechanics.asmedigitalcollection.asme.org/issue.aspx?journalid=112&issueid=26229
+- Journal of Biomechanics http://www.jbiomech.com/
+- Sports Engineering https://link.springer.com/journal/12283
+- Journal of Sports Engineering and Technology http://journals.sagepub.com/home/pip
