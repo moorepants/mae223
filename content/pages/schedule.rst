@@ -19,10 +19,10 @@ W Oct 04       Angular Velocity and Acceleration     - Ch 2.1-2.5
                                                      - `Notes L3`_
                                                      - `IPYNB L3`_
 -------------  ------------------------------------  ---------------  -----
-M Oct 09       Points and Linear Motion              Ch. 2.6-2.8
+M Oct 09       Points and Linear Motion              - Ch. 2.6-2.8
                                                      - `Notes L4`_
                                                      - `IPYNB L4`_
-W Oct 11       Linear Velocity and Acceleration      Ch. 2.6-2.8
+W Oct 11       Linear Velocity and Acceleration      - Ch. 2.6-2.8
                                                      - `Notes L5`_
                                                      - `IPYNB L5`_
 -------------  ------------------------------------  ---------------  -----
