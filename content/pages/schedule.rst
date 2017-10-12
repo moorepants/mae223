@@ -15,9 +15,11 @@ W Sep 27       - Introduction                        - Ch 1
 M Oct 02       Reference Frames, Angular Rotation    - Ch. 1.2
                                                      - `Notes L2`_
                                                      - `IPYNB L2`_
+                                                     - `Video L2`_
 W Oct 04       Angular Velocity and Acceleration     - Ch 2.1-2.5
                                                      - `Notes L3`_
                                                      - `IPYNB L3`_
+                                                     - `Video L3`_
 -------------  ------------------------------------  ---------------  -----
 M Oct 09       Points and Linear Motion              - Ch. 2.6-2.8
                                                      - `Notes L4`_
@@ -85,3 +87,5 @@ These are suggested problem sets from the text book:
 .. _IPYNB L5: {filename}/lecture-notebooks/mae223_l5.ipynb
 
 .. _Video L1: https://youtu.be/1Tyxgv7RUdk
+.. _Video L2: https://youtu.be/54N8e58pUTE
+.. _Video L3: https://youtu.be/R67f3_yTHw0
