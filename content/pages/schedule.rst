@@ -28,7 +28,9 @@ W Oct 11       Linear Velocity and Acceleration      - Ch. 2.6-2.8
                                                      - `Notes L5`_
                                                      - `IPYNB L5`_
 -------------  ------------------------------------  ---------------  -----
-M Oct 16       Configuration Constraints             Ch 2.9
+M Oct 16       Configuration Constraints             - Ch 2.9
+                                                     - `Notes L6`_
+                                                     - `IPYNB L6`_
 W Oct 18       Motion Constraints                    Ch 2.13
 F Oct 20                                                              Project Proposal Due
 -------------  ------------------------------------  ---------------  -----
@@ -79,12 +81,14 @@ These are suggested problem sets from the text book:
 .. _Notes L3: {filename}/lecture-notes/mae223-l3.pdf
 .. _Notes L4: {filename}/lecture-notes/mae223-l4.pdf
 .. _Notes L5: {filename}/lecture-notes/mae223-l5.pdf
+.. _Notes L6: {filename}/lecture-notes/mae223-l6.pdf
 
 .. _IPYNB L1: {filename}/lecture-notebooks/mae223_l1.ipynb
 .. _IPYNB L2: {filename}/lecture-notebooks/mae223_l2.ipynb
 .. _IPYNB L3: {filename}/lecture-notebooks/mae223_l3.ipynb
 .. _IPYNB L4: {filename}/lecture-notebooks/mae223_l4.ipynb
 .. _IPYNB L5: {filename}/lecture-notebooks/mae223_l5.ipynb
+.. _IPYNB L6: {filename}/lecture-notebooks/mae223_l6.ipynb
 
 .. _Video L1: https://youtu.be/1Tyxgv7RUdk
 .. _Video L2: https://youtu.be/54N8e58pUTE
