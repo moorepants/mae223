@@ -18,6 +18,19 @@ Log into bicycle.ucdavis.edu with your UCD email address to access our local
 JupyterHub server at http://bicycle.ucdavis.edu. You can then either create a
 new terminal session or a "Python 3" Jupyter notebook.
 
+Backing Up Your Work
+====================
+
+The JupyterHub server has an automated backup in place should any problems
+occur, but it is recommended to regularly back up your own work. To do so,
+open a terminal from the JupyterHub interface (go to ``New -> Terminal``). From
+this terminal window, type ``backup-home``. This will find all of your files
+and put them in a zip file called ``backup.zip``, which you should then be able
+to see and download from JupyterHub interface. Any time you want to back up
+your work, you can run this command again from the terminal and it will add any
+new or changed files to the zip file on the server (you have to download it to
+your own computer each time).
+
 Installing the Software On Your Personal Computer
 =================================================
 
