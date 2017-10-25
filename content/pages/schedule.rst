@@ -28,16 +28,21 @@ W Oct 11       Linear Velocity and Acceleration      - Ch. 2.6-2.8
                                                      - `Notes L5`_
                                                      - `IPYNB L5`_
 -------------  ------------------------------------  ---------------  -----
-M Oct 16       Configuration Constraints             - Ch 2.9
+M Oct 16       Configuration Constraints             - Ch. 2.9
                                                      - `Notes L6`_
                                                      - `IPYNB L6`_
-W Oct 18       Motion Constraints                    Ch 2.13
-F Oct 20                                                              Project Proposal Due
+W Oct 18       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
+                                                     - `Notes L7`_
+F Oct 20                                                              Project Proposal
 -------------  ------------------------------------  ---------------  -----
-M Oct 23       Gen. Speeds, Partial Velocities       2.14
-W Oct 25       Mass and Inertia                      Ch. 3.1-3.5
+M Oct 23       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
+                                                     - `Notes L8`_
+                                                     - `IPYNB L8`_
+W Oct 25       - Partial Velocities                  - Ch. 2.14
+               - Midterm Review                      - `Notes L9`_
 -------------  ------------------------------------  ---------------  -----
-M Oct 30       Principal Moments of Inertia          Ch. 3.6-3.9      Exam 1
+M Oct 30       - Mass and Inertia                    - Ch. 3.1-3.5    Exam 1
+               - Principal Moments of Inertia        - Ch. 3.6-3.9
 W Nov 01       Potential and Kinetic Energy          Ch. 5.1-5.4
 -------------  ------------------------------------  ---------------  -----
 M Nov 06       Forces and Torques                    Ch. 4.1-4.8
@@ -82,6 +87,9 @@ These are suggested problem sets from the text book:
 .. _Notes L4: {filename}/lecture-notes/mae223-l4.pdf
 .. _Notes L5: {filename}/lecture-notes/mae223-l5.pdf
 .. _Notes L6: {filename}/lecture-notes/mae223-l6.pdf
+.. _Notes L7: {filename}/lecture-notes/mae223-l7.pdf
+.. _Notes L8: {filename}/lecture-notes/mae223-l8.pdf
+.. _Notes L9: {filename}/lecture-notes/mae223-l9.pdf
 
 .. _IPYNB L1: {filename}/lecture-notebooks/mae223_l1.ipynb
 .. _IPYNB L2: {filename}/lecture-notebooks/mae223_l2.ipynb
@@ -89,6 +97,7 @@ These are suggested problem sets from the text book:
 .. _IPYNB L4: {filename}/lecture-notebooks/mae223_l4.ipynb
 .. _IPYNB L5: {filename}/lecture-notebooks/mae223_l5.ipynb
 .. _IPYNB L6: {filename}/lecture-notebooks/mae223_l6.ipynb
+.. _IPYNB L8: {filename}/lecture-notebooks/mae223_l8.ipynb
 
 .. _Video L1: https://youtu.be/1Tyxgv7RUdk
 .. _Video L2: https://youtu.be/54N8e58pUTE
