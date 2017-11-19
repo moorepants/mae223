@@ -48,7 +48,7 @@ W Nov 01       - Inertia
 -------------  ------------------------------------  ---------------  -----
 M Nov 06       - Midterm problems                    - `Notes L12`_
                - Principal Moments of Inertia        - Ch. 3.6-3.9
-W Nov 08       Forces and Torques                    Ch. 4.1-4.8
+W Nov 08       Forces and Torques                    - Ch. 4.1-4.8
                                                      - `Notes L13`_
 F Nov 11       Veteran's Day Holiday
 -------------  ------------------------------------  ---------------  -----
