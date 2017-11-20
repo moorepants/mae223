@@ -55,7 +55,7 @@ F Nov 11       Veteran's Day Holiday
 M Nov 13       Generalized Active Forces             Ch. 6.1
 W Nov 15       Generalized Inertia Forces             - `Notes L15`_
 -------------  ------------------------------------  ---------------  -----
-M Nov 20       Simulation and Visualization
+M Nov 20       Simulation and Visualization          - `IPYNB L16`_
 W Nov 22       Noncontributing Loads                 Ch. 4.9
 R Nov 23       Thanksgiving Holiday
 F Nov 24       Thanksgiving Holiday
@@ -106,6 +106,7 @@ These are suggested problem sets from the text book:
 .. _IPYNB L5: {filename}/lecture-notebooks/mae223_l5.ipynb
 .. _IPYNB L6: {filename}/lecture-notebooks/mae223_l6.ipynb
 .. _IPYNB L8: {filename}/lecture-notebooks/mae223_l8.ipynb
+.. _IPYNB L16: {filename}/lecture-notebooks/mae223_l16.ipynb
 
 .. _Video L1: https://youtu.be/1Tyxgv7RUdk
 .. _Video L2: https://youtu.be/54N8e58pUTE
