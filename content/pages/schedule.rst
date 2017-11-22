@@ -67,7 +67,7 @@ M Dec 04       TBA                                                    Exam 2
 W Dec 06       TBA
 U Dec 10                                                              Project Report Due
 -------------  ------------------------------------  ---------------  -----
-?              Project Presentations
+R Dec 14       **3:30-5:30PM** Proj. Presentations
 =============  ====================================  ===============  =====
 
 Suggested Problem Sets
