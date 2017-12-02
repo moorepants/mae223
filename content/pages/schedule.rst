@@ -116,12 +116,12 @@ These are suggested problem sets from the text book:
 .. _IPYNB L12: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_06_mae223_l12.ipynb
 .. _IPYNB L13: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_08_mae223_l13.ipynb
 .. _IPYNB L16: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_20_mae223_l16.ipynb
-.. _IPYNB L17-1: {filename}/lecture-notebooks/2017_11_22_mae223_l17_01.ipynb
-.. _IPYNB L17-2: {filename}/lecture-notebooks/2017_11_22_mae223_l17_02.ipynb
-.. _IPYNB L17-3: {filename}/lecture-notebooks/2017_11_22_mae223_l17_03.ipynb
-.. _IPYNB L18-1: {filename}/lecture-notebooks/2017_11_27_mae223_l18_01.ipynb
-.. _IPYNB L18-2: {filename}/lecture-notebooks/2017_11_27_mae223_l18_02.ipynb
-.. _IPYNB L19-1: {filename}/lecture-notebooks/2017_11_29_mae223_l19_01.ipynb
+.. _IPYNB L17-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_22_mae223_l17_01.ipynb
+.. _IPYNB L17-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_22_mae223_l17_02.ipynb
+.. _IPYNB L17-3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_22_mae223_l17_03.ipynb
+.. _IPYNB L18-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_27_mae223_l18_01.ipynb
+.. _IPYNB L18-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_27_mae223_l18_02.ipynb
+.. _IPYNB L19-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_29_mae223_l19_01.ipynb
 
 .. _Slides 19: https://nbviewer.jupyter.org/format/slides/github/moorepants/SCIPY2015/blob/master/presentation/human_control_param_id.ipynb#/
 
