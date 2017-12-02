@@ -48,8 +48,10 @@ W Nov 01       - Inertia
 -------------  ------------------------------------  -----------------  -----
 M Nov 06       - Midterm problems                    - `Notes L12`_
                - Principal Moments of Inertia        - Ch. 3.6-3.9
+                                                     - `IPYNB L12`_
 W Nov 08       Forces and Torques                    - Ch. 4.1-4.8
                                                      - `Notes L13`_
+                                                     - `IPYNB L13`_
 F Nov 11       Veteran's Day Holiday
 -------------  ------------------------------------  -----------------  -----
 M Nov 13       Generalized Active Forces             Ch. 6.1
@@ -63,8 +65,10 @@ W Nov 22       - Simulation                          - `IPYNB L17-1`_
 R Nov 23       Thanksgiving Holiday
 F Nov 24       Thanksgiving Holiday
 -------------  ------------------------------------  -----------------  -----
-M Nov 27       TBA
-W Nov 29       TBA
+M Nov 27       - Simulating with specified inputs    - `IPYNB L18-1`_
+               - Rolling disc EoMs                   - `IPYNB L18-2`_
+W Nov 29       - Simulating the rolling disc         - `IPYNB L19-1`_
+               - Trajectory optimization
 -------------  ------------------------------------  -----------------  -----
 M Dec 04       TBA                                                      Exam 2
 W Dec 06       TBA
@@ -109,10 +113,15 @@ These are suggested problem sets from the text book:
 .. _IPYNB L5: {filename}/lecture-notebooks/2017_10_11_mae223_l5.ipynb
 .. _IPYNB L6: {filename}/lecture-notebooks/2017_10_16_mae223_l6.ipynb
 .. _IPYNB L8: {filename}/lecture-notebooks/2017_10_23_mae223_l8.ipynb
+.. _IPYNB L12: {filename}/lecture-notebooks/2017_11_06_mae223_l12.ipynb
+.. _IPYNB L13: {filename}/lecture-notebooks/2017_11_08_mae223_l13.ipynb
 .. _IPYNB L16: {filename}/lecture-notebooks/2017_11_20_mae223_l16.ipynb
 .. _IPYNB L17-1: {filename}/lecture-notebooks/2017_11_22_mae223_l17_01.ipynb
 .. _IPYNB L17-2: {filename}/lecture-notebooks/2017_11_22_mae223_l17_02.ipynb
 .. _IPYNB L17-3: {filename}/lecture-notebooks/2017_11_22_mae223_l17_03.ipynb
+.. _IPYNB L18-1: {filename}/lecture-notebooks/2017_11_27_mae223_l18_01.ipynb
+.. _IPYNB L18-2: {filename}/lecture-notebooks/2017_11_27_mae223_l18_02.ipynb
+.. _IPYNB L19-1: {filename}/lecture-notebooks/2017_11_29_mae223_l19_01.ipynb
 
 .. _Video L1: https://youtu.be/1Tyxgv7RUdk
 .. _Video L2: https://youtu.be/54N8e58pUTE
