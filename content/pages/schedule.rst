@@ -106,16 +106,16 @@ These are suggested problem sets from the text book:
 .. _Notes L13: {filename}/lecture-notes/mae223-l13.pdf
 .. _Notes L15: {filename}/lecture-notes/mae223-l15.pdf
 
-.. _IPYNB L1: {filename}/lecture-notebooks/2017_09_27_mae223_l1.ipynb
-.. _IPYNB L2: {filename}/lecture-notebooks/2017_10_02_mae223_l2.ipynb
-.. _IPYNB L3: {filename}/lecture-notebooks/2017_10_04_mae223_l3.ipynb
-.. _IPYNB L4: {filename}/lecture-notebooks/2017_10_09_mae223_l4.ipynb
-.. _IPYNB L5: {filename}/lecture-notebooks/2017_10_11_mae223_l5.ipynb
-.. _IPYNB L6: {filename}/lecture-notebooks/2017_10_16_mae223_l6.ipynb
-.. _IPYNB L8: {filename}/lecture-notebooks/2017_10_23_mae223_l8.ipynb
-.. _IPYNB L12: {filename}/lecture-notebooks/2017_11_06_mae223_l12.ipynb
-.. _IPYNB L13: {filename}/lecture-notebooks/2017_11_08_mae223_l13.ipynb
-.. _IPYNB L16: {filename}/lecture-notebooks/2017_11_20_mae223_l16.ipynb
+.. _IPYNB L1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_09_27_mae223_l1.ipynb
+.. _IPYNB L2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_02_mae223_l2.ipynb
+.. _IPYNB L3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_04_mae223_l3.ipynb
+.. _IPYNB L4: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_09_mae223_l4.ipynb
+.. _IPYNB L5: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_11_mae223_l5.ipynb
+.. _IPYNB L6: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_16_mae223_l6.ipynb
+.. _IPYNB L8: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_23_mae223_l8.ipynb
+.. _IPYNB L12: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_06_mae223_l12.ipynb
+.. _IPYNB L13: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_08_mae223_l13.ipynb
+.. _IPYNB L16: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_20_mae223_l16.ipynb
 .. _IPYNB L17-1: {filename}/lecture-notebooks/2017_11_22_mae223_l17_01.ipynb
 .. _IPYNB L17-2: {filename}/lecture-notebooks/2017_11_22_mae223_l17_02.ipynb
 .. _IPYNB L17-3: {filename}/lecture-notebooks/2017_11_22_mae223_l17_03.ipynb
