@@ -70,11 +70,12 @@ M Nov 27       - Simulating with specified inputs    - `IPYNB L18-1`_
 W Nov 29       - Simulating the rolling disc         - `IPYNB L19-1`_
                - Trajectory optimization             - `Slides 19`_
 -------------  ------------------------------------  -----------------  -----
-M Dec 04       TBA                                                      Exam 2
-W Dec 06       TBA
-U Dec 10                                                                Project Report Due
+M Dec 04       - Trajectory Optimization
+               - Linearization
+W Dec 06       - Alternative coordinates
 -------------  ------------------------------------  -----------------  -----
-R Dec 14       **3:30-5:30PM** Proj. Presentations
+T Dec 12                                                                Exam Due
+R Dec 14       **3:30-5:30PM** Proj. Presentations                      Project Report Due
 =============  ====================================  =================  =====
 
 Suggested Problem Sets
