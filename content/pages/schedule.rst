@@ -45,6 +45,7 @@ M Oct 30       - Mass and Inertia                    - Ch. 3.1-3.5      Exam 1
                                                      - `Notes L10`_
 W Nov 01       - Inertia
                - Tensors and Dyadics                 - `Notes L11`_
+                                                     - `IPYNB L11`_
 -------------  ------------------------------------  -----------------  -----
 M Nov 06       - Midterm problems                    - `Notes L12`_
                - Principal Moments of Inertia        - Ch. 3.6-3.9
@@ -62,6 +63,7 @@ W Nov 22       - Simulation                          - `IPYNB L17-1`_
                - Visualization                       - `IPYNB L17-2`_
                - Noncontributing Loads               - Ch. 4.9
                                                      - `IPYNB L17-3`_
+                                                     - `IPYNB L17-4`_
 R Nov 23       Thanksgiving Holiday
 F Nov 24       Thanksgiving Holiday
 -------------  ------------------------------------  -----------------  -----
@@ -71,9 +73,10 @@ W Nov 29       - Simulating the rolling disc         - `IPYNB L19-1`_
                - Trajectory optimization             - `IPYNB L19-2`_
                                                      - `Slides 19`_
 -------------  ------------------------------------  -----------------  -----
-M Dec 04       - Trajectory Optimization
+M Dec 04       - Trajectory Optimization             - `IPYNB L20-2`_
                - Linearization
-W Dec 06       - Alternative coordinates
+W Dec 06       - Linearization
+               - Alternative coordinates             - `IPYNB L21-2`_
 -------------  ------------------------------------  -----------------  -----
 T Dec 12                                                                Exam Due
 R Dec 14       **3:30-5:30PM** Proj. Presentations                      Project Report Due
@@ -115,16 +118,20 @@ These are suggested problem sets from the text book:
 .. _IPYNB L5: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_11_mae223_l5.ipynb
 .. _IPYNB L6: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_16_mae223_l6.ipynb
 .. _IPYNB L8: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_23_mae223_l8.ipynb
+.. _IPYNB L11: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_01_mae223_l11.ipynb
 .. _IPYNB L12: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_06_mae223_l12.ipynb
 .. _IPYNB L13: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_08_mae223_l13.ipynb
 .. _IPYNB L16: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_20_mae223_l16.ipynb
 .. _IPYNB L17-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_22_mae223_l17_01.ipynb
 .. _IPYNB L17-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_22_mae223_l17_02.ipynb
 .. _IPYNB L17-3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_22_mae223_l17_03.ipynb
+.. _IPYNB L17-4: https://nbviewer.jupyter.org/github/pydy/pydy/blob/master/examples/chaos_pendulum/chaos_pendulum.ipynb
 .. _IPYNB L18-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_27_mae223_l18_01.ipynb
 .. _IPYNB L18-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_27_mae223_l18_02.ipynb
 .. _IPYNB L19-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_29_mae223_l19_01.ipynb
 .. _IPYNB L19-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_29_mae223_l19_02.ipynb
+.. _IPYNB L20-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_12_04_mae223_l20_02.ipynb
+.. _IPYNB L21-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_12_06_mae223_l21_02.ipynb
 
 .. _Slides 19: https://nbviewer.jupyter.org/format/slides/github/moorepants/SCIPY2015/blob/master/presentation/human_control_param_id.ipynb#/
 
