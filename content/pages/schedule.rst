@@ -74,6 +74,7 @@ M Nov 27       - Simulating with specified inputs    - `IPYNB L18-1`_
 W Nov 29       - Simulating the rolling disc         - `IPYNB L19-1`_
                - Trajectory optimization             - `IPYNB L19-2`_
                                                      - `Slides 19`_
+                                                     - `Opty`_
 -------------  ------------------------------------  -----------------  -----
 M Dec 04       - Trajectory Optimization             - `IPYNB L20-2`_
                - Linearization                       - `Notes L20`_
@@ -137,6 +138,8 @@ These are suggested problem sets from the text book:
 .. _IPYNB L18-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_27_mae223_l18_02.ipynb
 .. _IPYNB L19-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_29_mae223_l19_01.ipynb
 .. _IPYNB L19-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_29_mae223_l19_02.ipynb
+.. _IPYNB L19-3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_29_mae223_l19_03.ipynb
+.. _IPYNB L20-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_12_04_mae223_l20_01.ipynb
 .. _IPYNB L20-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_12_04_mae223_l20_02.ipynb
 .. _IPYNB L21-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_12_06_mae223_l21_02.ipynb
 
@@ -145,3 +148,5 @@ These are suggested problem sets from the text book:
 .. _Video L1: https://youtu.be/1Tyxgv7RUdk
 .. _Video L2: https://youtu.be/54N8e58pUTE
 .. _Video L3: https://youtu.be/R67f3_yTHw0
+
+.. _Opty: http://opty.readthedocs.io
