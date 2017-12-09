@@ -64,19 +64,22 @@ W Nov 22       - Simulation                          - `IPYNB L17-1`_
                - Noncontributing Loads               - Ch. 4.9
                                                      - `IPYNB L17-3`_
                                                      - `IPYNB L17-4`_
+                                                     - `Notes L17`_
 R Nov 23       Thanksgiving Holiday
 F Nov 24       Thanksgiving Holiday
 -------------  ------------------------------------  -----------------  -----
 M Nov 27       - Simulating with specified inputs    - `IPYNB L18-1`_
                - Rolling disc EoMs                   - `IPYNB L18-2`_
+                                                     - `Notes L18`_
 W Nov 29       - Simulating the rolling disc         - `IPYNB L19-1`_
                - Trajectory optimization             - `IPYNB L19-2`_
                                                      - `Slides 19`_
 -------------  ------------------------------------  -----------------  -----
 M Dec 04       - Trajectory Optimization             - `IPYNB L20-2`_
-               - Linearization
+               - Linearization                       - `Notes L20`_
 W Dec 06       - Linearization
                - Alternative coordinates             - `IPYNB L21-2`_
+                                                     - `Notes L21`_
 -------------  ------------------------------------  -----------------  -----
 T Dec 12                                                                Exam Due
 R Dec 14       **3:30-5:30PM** Proj. Presentations                      Project Report Due
@@ -110,6 +113,10 @@ These are suggested problem sets from the text book:
 .. _Notes L12: {filename}/lecture-notes/mae223-l12.pdf
 .. _Notes L13: {filename}/lecture-notes/mae223-l13.pdf
 .. _Notes L15: {filename}/lecture-notes/mae223-l15.pdf
+.. _Notes L17: {filename}/lecture-notes/mae223-l17.pdf
+.. _Notes L18: {filename}/lecture-notes/mae223-l18.pdf
+.. _Notes L20: {filename}/lecture-notes/mae223-l20.pdf
+.. _Notes L21: {filename}/lecture-notes/mae223-l21.pdf
 
 .. _IPYNB L1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_09_27_mae223_l1.ipynb
 .. _IPYNB L2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_02_mae223_l2.ipynb
