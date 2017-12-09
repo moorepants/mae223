@@ -79,9 +79,8 @@ W Nov 29       - Simulating the rolling disc         - `IPYNB L19-1`_
 M Dec 04       - Trajectory Optimization             - `IPYNB L20-1`_
                - Linearization                       - `IPYNB L20-2`_
                                                      - `Notes L20`_
-W Dec 06       - Linearization                       - `IPYNB L21-1`_
-               - Alternative coordinates             - `IPYNB L21-2`_
-                                                     - `Notes L21`_
+W Dec 06       - Linearization                       - `IPYNB L21-2`_
+               - Alternative coordinates             - `Notes L21`_
 -------------  ------------------------------------  -----------------  -----
 T Dec 12                                                                Exam Due
 R Dec 14       **3:30-5:30PM** Proj. Presentations                      Project Report Due
