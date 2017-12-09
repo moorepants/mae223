@@ -59,14 +59,14 @@ have chosen to learn. This should take several pages to do completely. I urge
 you to begin the selection of your system immediately and to discuss it with me
 office hours so that I can help you in this phase.
 
-Sunday December 10th
---------------------
+Thursday, December 14th
+-----------------------
 
 The final report is due. No submissions will be accepted after this date due to
 the time needed to grade them.
 
-TBA
----
+Thursday, December 14th
+-----------------------
 
 You will present a 5 minute lightning talk to the class explaining your
 project, methods, and the results.
