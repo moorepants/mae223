@@ -76,9 +76,10 @@ W Nov 29       - Simulating the rolling disc         - `IPYNB L19-1`_
                                                      - `Slides 19`_
                                                      - `Opty`_
 -------------  ------------------------------------  -----------------  -----
-M Dec 04       - Trajectory Optimization             - `IPYNB L20-2`_
-               - Linearization                       - `Notes L20`_
-W Dec 06       - Linearization
+M Dec 04       - Trajectory Optimization             - `IPYNB L20-1`_
+               - Linearization                       - `IPYNB L20-2`_
+                                                     - `Notes L20`_
+W Dec 06       - Linearization                       - `IPYNB L21-1`_
                - Alternative coordinates             - `IPYNB L21-2`_
                                                      - `Notes L21`_
 -------------  ------------------------------------  -----------------  -----
