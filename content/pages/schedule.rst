@@ -24,63 +24,81 @@ W Oct 04       Angular Velocity and Acceleration     - Ch 2.1-2.5
 M Oct 09       Points and Linear Motion              - Ch. 2.6-2.8
                                                      - `Notes L4`_
                                                      - `IPYNB L4`_
+                                                     - `Video L4`_
 W Oct 11       Linear Velocity and Acceleration      - Ch. 2.6-2.8
                                                      - `Notes L5`_
                                                      - `IPYNB L5`_
+                                                     - `Video L5`_
 -------------  ------------------------------------  -----------------  -----
 M Oct 16       Configuration Constraints             - Ch. 2.9
                                                      - `Notes L6`_
                                                      - `IPYNB L6`_
+                                                     - `Video L6`_
 W Oct 18       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
                                                      - `Notes L7`_
+                                                     - `Video L7`_
 F Oct 20                                                                Project Proposal
 -------------  ------------------------------------  -----------------  -----
 M Oct 23       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
                                                      - `Notes L8`_
                                                      - `IPYNB L8`_
+                                                     - `Video L8`_
 W Oct 25       - Partial Velocities                  - Ch. 2.14
                - Midterm Review                      - `Notes L9`_
+                                                     - `Video L9`_
 -------------  ------------------------------------  -----------------  -----
 M Oct 30       - Mass and Inertia                    - Ch. 3.1-3.5      Exam 1
                                                      - `Notes L10`_
+                                                     - `Video L10`_
 W Nov 01       - Inertia
                - Tensors and Dyadics                 - `Notes L11`_
                                                      - `IPYNB L11`_
+                                                     - `Video L11`_
 -------------  ------------------------------------  -----------------  -----
 M Nov 06       - Midterm problems                    - `Notes L12`_
                - Principal Moments of Inertia        - Ch. 3.6-3.9
                                                      - `IPYNB L12`_
+                                                     - `Video L12`_
 W Nov 08       Forces and Torques                    - Ch. 4.1-4.8
                                                      - `Notes L13`_
                                                      - `IPYNB L13`_
+                                                     - `Video L13`_
 F Nov 11       Veteran's Day Holiday
 -------------  ------------------------------------  -----------------  -----
-M Nov 13       Generalized Active Forces             Ch. 6.1
-W Nov 15       Generalized Inertia Forces             - `Notes L15`_
+M Nov 13       Generalized Active Forces             - Ch. 6.1
+                                                     - `Video L14`_
+W Nov 15       Generalized Inertia Forces            - `Notes L15`_
+                                                     - `Video L15`_
 -------------  ------------------------------------  -----------------  -----
 M Nov 20       Simulation and Visualization          - `IPYNB L16`_
+                                                     - `Video L16`_
 W Nov 22       - Simulation                          - `IPYNB L17-1`_
                - Visualization                       - `IPYNB L17-2`_
                - Noncontributing Loads               - Ch. 4.9
                                                      - `IPYNB L17-3`_
                                                      - `IPYNB L17-4`_
                                                      - `Notes L17`_
+                                                     - `Video L17`_
 R Nov 23       Thanksgiving Holiday
 F Nov 24       Thanksgiving Holiday
 -------------  ------------------------------------  -----------------  -----
 M Nov 27       - Simulating with specified inputs    - `IPYNB L18-1`_
                - Rolling disc EoMs                   - `IPYNB L18-2`_
                                                      - `Notes L18`_
+                                                     - `Video L18`_
 W Nov 29       - Simulating the rolling disc         - `IPYNB L19-1`_
                - Trajectory optimization             - `IPYNB L19-2`_
                                                      - `Slides 19`_
                                                      - `Opty`_
+                                                     - `Video L19`_
 -------------  ------------------------------------  -----------------  -----
 M Dec 04       - Trajectory Optimization             - `IPYNB L20-1`_
                - Linearization                       - `IPYNB L20-2`_
                                                      - `Notes L20`_
+                                                     - `Video L20`_
 W Dec 06       - Linearization                       - `IPYNB L21-2`_
                - Alternative coordinates             - `Notes L21`_
+                                                     - `Video L21`_
 -------------  ------------------------------------  -----------------  -----
 T Dec 12                                                                Exam Due
 R Dec 14       **3:30-5:30PM** Proj. Presentations                      Project Report Due
@@ -148,5 +166,23 @@ These are suggested problem sets from the text book:
 .. _Video L1: https://youtu.be/1Tyxgv7RUdk
 .. _Video L2: https://youtu.be/54N8e58pUTE
 .. _Video L3: https://youtu.be/R67f3_yTHw0
+.. _Video L4: https://youtu.be/a3etlNiw4dg
+.. _Video L5: https://youtu.be/-aT06kdLef8
+.. _Video L6: https://youtu.be/IrugVcQ5M_w
+.. _Video L7: https://youtu.be/qQM5fp3dKQU
+.. _Video L8: https://youtu.be/iqQYT2FIdGI
+.. _Video L9: https://youtu.be/fnJ2xnkG-_s
+.. _Video L10: https://youtu.be/xG3UYdc90Ho
+.. _Video L11: https://youtu.be/YHYDhDKXfKs
+.. _Video L12: https://youtu.be/Tc1tD8Ltw9g
+.. _Video L13: https://youtu.be/J_1ptsGIgm8
+.. _Video L14: https://youtu.be/CpCJ6bsZSnw
+.. _Video L15: https://youtu.be/Y0dmXiX3UME
+.. _Video L16: https://youtu.be/A-3dKopr-2I
+.. _Video L17: https://youtu.be/SK2KzADhO6M
+.. _Video L18: https://youtu.be/BtODJmo3ULU
+.. _Video L19: https://youtu.be/lO6hnGG-FxI
+.. _Video L20: https://youtu.be/Oou3ZItxtjM
+.. _Video L21: https://youtu.be/IsXSXJlC2xI
 
 .. _Opty: http://opty.readthedocs.io
