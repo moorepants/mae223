@@ -25,7 +25,7 @@ before_script:
   - conda list -n pelican-env
 script:
   - set -e
-  - ls $HOME/miniconda/envs/pelican-env/bin
+  #- ls $HOME/miniconda/envs/pelican-env/bin
   - source activate pelican-env
   - pelican -D -v --fatal errors -s publishconf.py
   - source deactivate
