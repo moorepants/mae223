@@ -10,7 +10,7 @@ Course Description
 | Department of Mechanical and Aerospace Engineering
 | Multibody Dynamics
 | Fall 2017, Lecture: TR 10:00-11:50 AM, Wickson Hall 1020
-| CRN: 62952 MAE, 63548 BIM
+| CRN: 62952 (MAE), 63548 (BIM)
 
 After the completion of this class you will have developed the skills to model,
 interpret, simulate, and analyze `multibody systems`_, i.e. systems which are
@@ -64,10 +64,11 @@ Instructor
 Time and Location
 =================
 
-We will meet in Wickson 1020 on Mondays and Wednesday from 10:00 AM to 11:50 AM.
+We will meet in Wickson 1020 on Tuesdays and Thursdays from 10:00 AM to 11:50
+AM.
 
 **If you have any conflicts with the schedule you must tell me by email in the
-first week of class (emergencies will be the only exception).**
+first week of class (major emergencies will be the only exception).**
 
 Office Hours
 ============
@@ -120,11 +121,11 @@ programming language and leverage the SciPy ecosystem of scientific and
 engineering computing tools. You will have access to these through our
 JupyterHub server at bicycle.ucdavis.edu_. You may also install the software on
 your own computer. You will need to bring your laptop, tablet, or phone to
-class to follow along with the interactive sessions. See the `software page`_
-on this website for more information.
+class to follow along with the interactive sessions (laptop is recommended).
+See the `software page`_ on this website for more information.
 
-.. _PyDy: http://pydy.org
 .. _SymPy: http://sympy.org
+.. _PyDy: http://pydy.org
 .. _bicycle.ucdavis.edu: https://bicycle.ucdavis.edu
 .. _software page: {filename}/pages/software.rst
 
@@ -165,7 +166,7 @@ Canvas
 ======
 
 We will make use of Canvas for the course. Log in to canvas.ucdavis.edu_ with
-your Kerberos ID and passphrase then select **MAE 223 001 FQ 2017**.
+your Kerberos ID and passphrase then select **MAE 223 001 FQ 2019**.
 
 We will be using several features in Canvas:
 
@@ -186,26 +187,18 @@ Files
 Communication
 =============
 
-This class requires a lot of communication: among your team, with your
-sponsors, with your mentors, and with the instructors. This can quickly get
-unmanageable, especially for the instructors' email inboxes. So here are some
-simple rules to follow with respect to communication:
-
-`Piazza <http://piazza.com/ucdavis/fall2017/mae223>`_
+Canvas Discussions
    This is the first place to ask questions. Use this forum to ask questions
    that are general for the class. Try to restructure your less general
    questions into general ones so you can ask here. This minimizes the number
    of times a question has to be answered and allows both students and
-   instructors to collectively answer questions. Note that there is a single
-   instructor answer and a single student(s) answer. Your contributions to
-   answering questions on Piazza will be used to boost your grade on borderline
-   cases.
+   instructors to collectively answer questions.
 Email
    Use email for individualized communication, i.e. for questions about project
    specifics or other personal needs. Prepend "[MAE223]" to their subject line.
 Office Hours
    Please come visit me in office hours to discuss your work. The earlier, the
-   better.
+   better and I recommend doing this often.
 Appointments
    You may schedule an appointment with me outside of office hours if all of
    the above doesn't work for some reason. Use this as a last resort.
