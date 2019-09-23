@@ -20,15 +20,12 @@ install:
   # This command failed with an error.
   #- conda update -q conda
   - conda info -a
-  - conda create -q -n test-environment python=2
-  - source activate test-environment
-  - conda install "pelican<4"
+  - conda create -q -n pelican-env python=2 "pelican<4"
 before_script:
   - conda list
 script:
   - set -e
-  - pelican -D -v --fatal errors -s publishconf.py
-  - source deactivate
+  - $HOME/miniconda/envs/pelican-env/bin/pelican -D -v --fatal errors -s publishconf.py
   - if [[ -z "$TRAVIS_TAG" ]]; then
       DEPLOY_DIR=".";
     else
