@@ -30,4 +30,4 @@ License
 =======
 
 The text, images, contents, and source of the website are released under the
-Creative Commons Zero License (public domain) unless otherwise specified.
+CC-BY-40 unless otherwise specified.
