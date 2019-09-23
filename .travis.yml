@@ -6,12 +6,23 @@ env:
     # Doctr deploy key for moorepants/mae223
     - secure: "DUZO4HYuynYYff2aPwPdtdjjPDTgu7C091R2fo5rB+tH+a6RlmZhamsHPP3rnrjfgNHo7J9fbapJkqbTCWeegGCEzt+8K/dtFmIagAVDmL3rVBndiORE9sgOLMB1hmE+/UrR6R/JnejQYcia3Ki+OrUHNVEzd6OA2WsUAd6/TxmRjUlbxQW6UONVhWAaeEEnhoKBzcUzWSClsyXq+egrUJ0aWFCc8mYZ0LtlgvsO4yzl5RRZjLJ5OD6apBYdTv0DXpxg6pzqs5nIaCGn8Iev50Uh9j/4XZwsXqj2TScYdrUBCc9yQ8WavXKUEfDwtsJTPCW9RRnGOQTk+VD5w6Fb84pNd8Mkr0TplmBm2mHUa61Rbt7tqY6OWfYMHy6a6sh80ZVl9FOn5Fk2qzQA0pwiSgNlEteQQB28P68uq6NZEsMjrXXkCsBZ6tyW5uTvqXE71H4jHBIp4+BZ8I3Ynm4ed13ckYAo2kCXBL3IPoX4aQLCF3h8JMNXMo9zK0I+rnrX4FUa1gn/QeVpypC9hs5wn2717i6/FUjWz6NIJ1MqeGAVLJTBdMwgRmSH5iQ05iPikn/KW1mOMBgjfcSL5CfUDwaTP3M7MgluKw6plMiNV++SOVzTswlp+nBrKoRpBXf1xIoMwktZjxFqXm8mgP4gkeuJuT1wCQyMBUZUxjR2KwY="
 install:
-  - pip install "pelican<4.0" doctr
   - git clone --depth=1 --single-branch --branch mechmotum https://github.com/mechmotum/pelican-alchemy.git
   - git clone --depth=1 https://github.com/getpelican/pelican-plugins.git
   - ls -al
+  # Get miniconda for Python 2.7
+  - wget http://repo.continuum.io/miniconda/Miniconda-latest-Linux-x86_64.sh -O miniconda.sh;
+  - bash miniconda.sh -b -p $HOME/miniconda
+  - export PATH="$HOME/miniconda/bin:$PATH"
+  - hash -r
+  - conda config --set always_yes yes --set changeps1 no
+  - conda config --add channels conda-forge
+  - conda update -q conda
+  - conda info -a
+  - conda create -q -n test-environment python=2
+  - source activate test-environment
+  - conda install "pelican<4" doctr
 before_script:
-  - pip freeze
+  - conda list
 script:
   - set -e
   - pelican -D -v --fatal errors -s publishconf.py
