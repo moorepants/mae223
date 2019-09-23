@@ -27,6 +27,7 @@ script:
   - set -e
   #- ls $HOME/miniconda/envs/pelican-env/bin
   - source activate pelican-env
+  - python -c "import pelican"
   - pelican -D -v --fatal errors -s publishconf.py
   - source deactivate
   - if [[ -z "$TRAVIS_TAG" ]]; then
