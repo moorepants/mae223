@@ -9,15 +9,15 @@ Course Description
 | University of California, Davis
 | Department of Mechanical and Aerospace Engineering
 | Multibody Dynamics
-| Fall 2017, Lecture: MW 10:00-11:50 AM
-| CRN: 63597
+| Fall 2017, Lecture: TR 10:00-11:50 AM, Wickson Hall 1020
+| CRN: 62952 MAE, 63548 BIM
 
 After the completion of this class you will have developed the skills to model,
 interpret, simulate, and analyze `multibody systems`_, i.e. systems which are
 made up of interconnected rigid bodies with arbitrary constraints and applied
 loads. Mathematical models of multibody systems are typically very useful at
 predicting the motion of macro scale objects. `Newton's laws of motion`_ are
-the foundation of developing predictive models of these systems.  Examples of
+the foundation of developing predictive models of these systems. Examples of
 systems you will be able to model are: spacecraft trajectories, human/animal
 biomechanics, vehicle motion, robot motion, etc.
 
@@ -49,8 +49,8 @@ Students will be able to:
 Prerequites
 -----------
 
-The only required prerequisite is Engineering 102 or a similar course in
-introductory dynamics. You should also be proficient at at least one scientific
+The only required prerequisite is ENG 102 or a similar course in introductory
+dynamics. You should also be proficient with at least one scientific
 programming language. We will be using Python in class.
 
 Instructor
@@ -64,7 +64,7 @@ Instructor
 Time and Location
 =================
 
-We will meet in Bainer 1070 on Mondays and Wednesday from 10:00 AM to 11:50 AM.
+We will meet in Wickson 1020 on Mondays and Wednesday from 10:00 AM to 11:50 AM.
 
 **If you have any conflicts with the schedule you must tell me by email in the
 first week of class (emergencies will be the only exception).**
@@ -114,7 +114,7 @@ website as we move through the course.
 Software
 ========
 
-We will be making extensive use of PyDy_ and SymPy_ to model and simulate
+We will be making extensive use of SymPy_ and PyDy_ to model and simulate
 multibody systems. These packages are written in the open source Python
 programming language and leverage the SciPy ecosystem of scientific and
 engineering computing tools. You will have access to these through our
