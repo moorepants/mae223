@@ -3,39 +3,39 @@ channels:
   - conda-forge
   - http://repo.continuum.io/pkgs/free
 dependencies:
-  - beautifulsoup4=4.5.3=py27_0
-  - blinker=1.4=py27_0
-  - cffi=1.9.1=py27_0
-  - cryptography=1.7.1=py27_0
-  - docutils=0.13.1=py27_0
-  - ecdsa=0.13=py27_0
-  - enum34=1.1.6=py27_0
-  - fabric=1.13.1=py27_0
-  - feedgenerator=1.9=py27_0
-  - ghp-import=0.5.5=py27_0
-  - idna=2.2=py27_0
-  - ipaddress=1.0.18=py27_0
-  - jinja2=2.9.6=py27_0
+  - beautifulsoup4=4.5.3
+  - blinker=1.4
+  - cffi=1.9.1
+  - cryptography=1.7.1
+  - docutils=0.13.1
+  - ecdsa=0.13
+  - enum34=1.1.6
+  - fabric=1.13.1
+  - feedgenerator=1.9
+  - ghp-import=0.5.5
+  - idna=2.2
+  - ipaddress=1.0.18
+  - jinja2=2.9.6
   - libffi=3.2.1=1
-  - markupsafe=0.23=py27_2
+  - markupsafe=0.23
   - openssl=1.0.2k=1
-  - paramiko=2.1.2=py27_0
-  - pelican=3.7.0=py27_0
+  - paramiko=2.1.2
+  - pelican=3.7.0
   - pip=9.0.1=py27_1
-  - pyasn1=0.2.3=py27_0
-  - pycparser=2.17=py27_0
+  - pyasn1=0.2.3
+  - pycparser=2.17
   - pycrypto=2.6.1=py27_4
-  - pygments=2.2.0=py27_0
+  - pygments=2.2.0
   - python=2.7.12=1
-  - python-dateutil=2.6.0=py27_0
-  - pytz=2017.2=py27_0
-  - pyyaml=3.12=py27_0
+  - python-dateutil=2.6.0
+  - pytz=2017.2
+  - pyyaml=3.12
   - readline=6.2=2
-  - setuptools=27.2.0=py27_0
+  - setuptools=27.2.0
   - sqlite=3.13.0=0
   - tk=8.5.18=0
-  - unidecode=0.04.20=py27_0
-  - wheel=0.29.0=py27_0
+  - unidecode=0.04.20
+  - wheel=0.29.0
   - yaml=0.1.6=0
   - zlib=1.2.8=3
   - six==1.10.0
