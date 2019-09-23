@@ -11,20 +11,18 @@ dependencies:
   - ecdsa=0.13
   - enum34=1.1.6
   - feedgenerator=1.9
-  - ghp-import=0.5.5
   - idna=2.2
   - ipaddress=1.0.18
   - jinja2=2.9.6
-  - libffi=3.2.1=1
+  - libffi=3.2.1
   - markupsafe=0.23
-  - openssl=1.0.2k=1
   - pelican=3.7.0
-  - pip=9.0.1=py27_1
+  - pip=9.0.1
   - pyasn1=0.2.3
   - pycparser=2.17
-  - pycrypto=2.6.1=py27_4
+  - pycrypto=2.6.1
   - pygments=2.2.0
-  - python=2.7.12=1
+  - python=2.7.12
   - python-dateutil=2.6.0
   - pytz=2017.2
   - pyyaml=3.12
