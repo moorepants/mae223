@@ -9,6 +9,7 @@ install:
   - pip install pelican doctr
   - git clone --depth=1 --single-branch --branch mechmotum https://github.com/mechmotum/pelican-alchemy.git
   - git clone --depth=1 https://github.com/getpelican/pelican-plugins.git
+  - ls -al
 before_script:
   - pip freeze
 script:

@@ -26,6 +26,7 @@ if "TRAVIS" in os.environ:
     PLUGIN_PATHS = [join(expanduser("~"), 'src', 'pelican-plugins'), "plugins"]
 else:
     PLUGIN_PATHS = ['pelican-plugins', "plugins"]
+print(PLUGIN_PATHS)
 PLUGINS = ['neighbors', 'render_math', 'headerid', 'jinja2content']
 
 # headerid options
