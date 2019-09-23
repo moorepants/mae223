@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 from os.path import join, expanduser
 
 AUTHOR = u'Jason K. Moore'
@@ -21,7 +22,10 @@ STATIC_PATHS = ['lecture-notes', 'lecture-notebooks']
 
 # NOTE: The order here is important. The last item is the first to be searched
 # it seems.
-PLUGIN_PATHS = [join(expanduser("~"), 'src', 'pelican-plugins'), "plugins"]
+if "TRAVIS" in os.environ:
+    PLUGIN_PATHS = [join(expanduser("~"), 'src', 'pelican-plugins'), "plugins"]
+else:
+    PLUGIN_PATHS = ['pelican-plugins', "plugins"]
 PLUGINS = ['neighbors', 'render_math', 'headerid', 'jinja2content']
 
 # headerid options
