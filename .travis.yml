@@ -25,7 +25,9 @@ before_script:
   - conda list
 script:
   - set -e
-  - $HOME/miniconda/envs/pelican-env/bin/pelican -D -v --fatal errors -s publishconf.py
+  - source activate pelican-env
+  - pelican -D -v --fatal errors -s publishconf.py
+  - source deactivate
   - if [[ -z "$TRAVIS_TAG" ]]; then
       DEPLOY_DIR=".";
     else
