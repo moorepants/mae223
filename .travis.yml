@@ -20,7 +20,7 @@ install:
   # This command failed with an error.
   #- conda update -q conda
   - conda info -a
-  - conda create -q -n pelican-env python=2 "pelican==3.7.0"
+  - conda env create -f pelican-env.yml
 before_script:
   - conda list -n pelican-env
 script:
