@@ -21,6 +21,9 @@ install:
   #- conda update -q conda
   - conda info -a
   - conda create -q -n pelican-env python=2 "pelican<4"
+  - source activate pelican-env
+  - conda install "pelican<4"
+  - source deactivate
 before_script:
   - conda list
 script:
