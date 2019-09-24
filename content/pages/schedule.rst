@@ -47,15 +47,10 @@ NA  M Nov 11       Veteran's Day Holiday
 NA R Nov 28        Thanksgiving Holiday
 NA F Nov 29        Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
-NA  20  W Dec 03   - Simulating the rolling disc         - `IPYNB L19-1`_
-                   - Trajectory optimization             - `IPYNB L19-2`_
-                                                     - `Slides 19`_
-                                                     - `Opty`_
-                                                     - `Video L19`_
-NA  21  M Dec 05       - Trajectory Optimization             - `IPYNB L20-1`_
-               - Linearization                       - `IPYNB L20-2`_
-                                                     - `Notes L20`_
-                                                     - `Video L20`_
+20  T Dec 03       - Simulating the rolling disc
+                   - Trajectory optimization
+21  R Dec 05       - Trajectory Optimization
+                   - Linearization
 NA  F Dec 10                                                                Exam Due
 -------------  ------------------------------------  -----------------  -----
 W Dec 06       - Linearization                       - `IPYNB L21-2`_
