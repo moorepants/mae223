@@ -48,7 +48,7 @@ Your grade will be based on the following aspects:
 Deadlines
 =========
 
-Friday October 20th
+Friday October 18th
 -------------------
 
 Report to me in writing the system of your choice, including a motivation for
@@ -57,15 +57,16 @@ search to identify previous work on this problem, and a relatively complete
 discussion of the way you hope to use the dynamic simulation to learn what you
 have chosen to learn. This should take several pages to do completely. I urge
 you to begin the selection of your system immediately and to discuss it with me
-office hours so that I can help you in this phase.
+office hours so that I can help you in this phase. This proposal should be no
+longer that three pages.
 
-Thursday, December 14th
+Thursday, December 12th
 -----------------------
 
 The final report is due. No submissions will be accepted after this date due to
 the time needed to grade them.
 
-Thursday, December 14th
+Thursday, December 12th
 -----------------------
 
 You will present a 5 minute lightning talk to the class explaining your
