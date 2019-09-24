@@ -37,28 +37,23 @@ NA  M Nov 11       Veteran's Day Holiday
 15  T Nov 12       Generalized Active Forces             - Ch. 6.1
 16  R Nov 14       Generalized Inertia Forces
 --  -------------  ------------------------------------  -----------------  -----
-17  T Nov 19       Simulation and Visualization          - `IPYNB L16`_
+17  T Nov 19       Simulation and Visualization
 18  R Nov 21       - Simulation
                    - Visualization
                    - Noncontributing Loads               - Ch. 4.9
 --  -------------  ------------------------------------  -----------------  -----
-19  T Nov 26       - Simulating with specified inputs    - `IPYNB L18-1`_
-                   - Rolling disc EoMs                   - `IPYNB L18-2`_
-NA R Nov 28        Thanksgiving Holiday
-NA F Nov 29        Thanksgiving Holiday
+19  T Nov 26       - Simulating with specified inputs
+                   - Rolling disc EoMs
+NA  R Nov 28        Thanksgiving Holiday
+NA  F Nov 29        Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
 20  T Dec 03       - Simulating the rolling disc
-                   - Trajectory optimization
-21  R Dec 05       - Trajectory Optimization
                    - Linearization
-NA  F Dec 10                                                                Exam Due
--------------  ------------------------------------  -----------------  -----
-W Dec 06       - Linearization                       - `IPYNB L21-2`_
-               - Alternative coordinates             - `Notes L21`_
-                                                     - `Video L21`_
--------------  ------------------------------------  -----------------  -----
-R Dec XX       **3:30-5:30PM** Proj. Presentations                      Project Report Due
-=============  ====================================  =================  =====
+21  R Dec 05       - Alternative coordinates
+NA  F Dec 10                                                               Exam Due
+-- -------------  ------------------------------------  -----------------  -----
+NA  R Dec XX       **3:30-5:30PM** Proj. Presentations                     Project Report Due
+== =============  ====================================  =================  =====
 
 Suggested Problem Sets
 ======================
