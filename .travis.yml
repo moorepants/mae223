@@ -15,7 +15,7 @@ install:
   # This command failed with an error.
   #- conda update -q conda
   - conda env create -f pelican-env.yml
-  - conda create -n doctr-env doctr
+  - conda create -n doctr-env -c conda-forge doctr
 before_script:
   - conda info -a
   - conda list -n pelican-env
