@@ -8,30 +8,15 @@ env:
 install:
   - git clone --depth=1 https://github.com/getpelican/pelican-plugins.git
   - git clone --depth=1 --single-branch --branch mechmotum https://github.com/mechmotum/pelican-alchemy.git
-  - wget http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh;
-  - bash miniconda.sh -b -p $HOME/miniconda
-  - export PATH="$HOME/miniconda/bin:$PATH"
-  - hash -r
-  - conda config --set always_yes yes --set changeps1 no
-  # This command failed with an error.
-  #- conda update -q conda
-  - conda env create -f pelican-env.yml
-  - conda create -n doctr-env -c conda-forge doctr
+  - pip install pelican doctr yaml
 before_script:
-  - conda info -a
-  - conda list -n pelican-env
-  - conda list -n doctr-env
+  - pip freeze
 script:
   - set -e
-  - source activate pelican-env
-  - python -c "import pelican"
   - pelican -D -v --fatal errors -s publishconf.py
-  - source deactivate
-  - source activate doctr-env
   - if [[ -z "$TRAVIS_TAG" ]]; then
       DEPLOY_DIR=".";
     else
       DEPLOY_DIR="$TRAVIS_TAG";
     fi
   - doctr deploy --build-tags --built-docs output/ $DEPLOY_DIR
-  - source deactivate
