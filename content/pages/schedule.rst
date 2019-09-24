@@ -2,7 +2,8 @@
 :sortorder: 1
 
 This is the schedule for the quarter. **Check the schedule periodically for
-changes.**
+changes.** All lecture notes, Jupyter notebooks, and scripts will be added
+here.
 
 .. class:: table table-striped table-bordered
 
@@ -26,26 +27,26 @@ NA  F Oct 18                                                                Proj
 08  T Oct 22       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
 09  R Oct 24       Partial Velocities                    - Ch. 2.14
 --  -------------  ------------------------------------  -----------------  -----
-10  T Oct 29       Mass and Inertia                      Ch. 3.1-3.4        - PS4: 2,3,7,8,11,13,14
+10  T Oct 29       Mass and Inertia                      - Ch. 3.1-3.4      - PS4: 2,3,7,8,11,13,14
                                                                             - Exam 1 Provided
-11  R Oct 31       Inertia: Tensors and Dyadics          Ch. 3.5-3.6
+11  R Oct 31       Inertia: Tensors and Dyadics          - Ch. 3.5-3.6
 NA  F Nov 01                                                                Exam 1 Due
 --  -------------  ------------------------------------  -----------------  -----
 12  T Nov 05       Principal Moments of Inertia          - Ch. 3.8-3.9      PS5: 5,6,7,8
 13  R Nov 07       Forces and Torques                    - Ch. 4.1-4.8      PS6: 1,7,8
 --  -------------  ------------------------------------  -----------------  -----
 NA  M Nov 11       Veteran's Day Holiday
-15  T Nov 12       Generalized Active Forces             Ch. 4.4
-16  R Nov 14       Generalized Inertia Forces            Ch. 4.11, 6.1      PS7: 1,2,7
+15  T Nov 12       Generalized Active Forces             - Ch. 4.4
+16  R Nov 14       Generalized Inertia Forces            - Ch. 4.11, 6.1    PS7: 1,2,7
 --  -------------  ------------------------------------  -----------------  -----
-17  T Nov 19       Noncontributing Loads                 Ch. 4.9
-18  R Nov 21       Simulation & Visualization            Ch. 7.5            PS8: 1,2,3,4,6
+17  T Nov 19       Noncontributing Loads                 - Ch. 4.9
+18  R Nov 21       Simulation & Visualization            - Ch. 7.5          PS8: 1,2,3,4,6
 --  -------------  ------------------------------------  -----------------  -----
 19  T Nov 26       Simulating the rolling disc
 NA  R Nov 28       Thanksgiving Holiday
 NA  F Nov 29       Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
-20  T Dec 03       Linearization                         Ch. 6.4            Exam 2 Provided
+20  T Dec 03       Linearization                         - Ch. 6.4          Exam 2 Provided
 21  R Dec 05       Alternative coordinates
 NA  F Dec 10                                                                Exam Due
 --  -------------  ------------------------------------  -----------------  -----
