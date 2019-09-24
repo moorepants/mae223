@@ -10,7 +10,12 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://moorepants.github.io/mae223'
+if 'TRAVIS_TAG' in os.environ and os.environ.get('TRAVIS_TAG') is not '':
+    TAG_DIR = '/' + os.environ.get('TRAVIS_TAG')
+else:
+    TAG_DIR = ''
+
+SITEURL = 'https://moorepants.github.io/mae223{}'.format(TAG_DIR)
 RELATIVE_URLS = False
 
 FEED_ATOM = None
