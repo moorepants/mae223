@@ -8,7 +8,7 @@ env:
 install:
   - git clone --depth=1 https://github.com/getpelican/pelican-plugins.git
   - git clone --depth=1 --single-branch --branch mechmotum https://github.com/mechmotum/pelican-alchemy.git
-  - pip install pelican doctr yaml
+  - pip install pelican doctr pyyaml
 before_script:
   - pip freeze
 script:
