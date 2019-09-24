@@ -51,7 +51,9 @@ Prerequites
 
 The only required prerequisite is ENG 102 or a similar course in introductory
 dynamics. You should also be proficient with at least one scientific
-programming language. We will be using Python in class.
+programming language. We will be using Python_ in class.
+
+.. _Python: http://www.python.org
 
 Instructor
 ==========
@@ -83,10 +85,12 @@ Monday through Thursday and email him with a request for a meeting.
 Academic Integrity
 ==================
 
-Academic dishonesty will not be tolerated. Please visit the `Academic Integrity
-web page`_ from UC Davis Office of Student Judicial Affairs to review the
-campus' policy on academic responsibility and integrity and read the UC Davis
-`code of academic conduct`_.
+Academic dishonesty will not be tolerated. All assignments turned in for a
+grade must be your unique work and the exams should be completed solely by you
+with no assistance from others. Please visit the `Academic Integrity web page`_
+from UC Davis Office of Student Judicial Affairs to review the campus' policy
+on academic responsibility and integrity and read the UC Davis `code of
+academic conduct`_.
 
 .. _Academic Integrity web page: http://sja.ucdavis.edu/academic-integrity.html
 .. _code of academic conduct: http://sja.ucdavis.edu/cac.html
@@ -115,14 +119,15 @@ website as we move through the course.
 Software
 ========
 
-We will be making extensive use of SymPy_ and PyDy_ to model and simulate
-multibody systems. These packages are written in the open source Python
-programming language and leverage the SciPy ecosystem of scientific and
-engineering computing tools. You will have access to these through our
-JupyterHub server at bicycle.ucdavis.edu_. You may also install the software on
-your own computer. You will need to bring your laptop, tablet, or phone to
-class to follow along with the interactive sessions (laptop is recommended).
-See the `software page`_ on this website for more information.
+We will be making extensive use of the computer aided algebra software SymPy_
+and simulation software PyDy_ to model and simulate multibody systems. These
+packages are written in the open source Python programming language and
+leverage the SciPy ecosystem of scientific and engineering computing tools. You
+will have access to these through our JupyterHub server at
+bicycle.ucdavis.edu_. You may also install the software on your own computer.
+You will need to bring your laptop, tablet, or phone to class to follow along
+with the interactive sessions (laptop is recommended).  See the `software
+page`_ on this website for more information.
 
 .. _SymPy: http://sympy.org
 .. _PyDy: http://pydy.org
@@ -142,6 +147,8 @@ Grades will be available in the canvas.ucdavis.edu_ grade book periodically
 throughout the course along with class statistics.
 
 .. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
+
+.. class:: table table-striped table-bordered
 
 =========================  ===
 Assignment                 %

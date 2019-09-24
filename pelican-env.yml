@@ -26,12 +26,12 @@ dependencies:
   - python-dateutil=2.6.0
   - pytz=2017.2
   - pyyaml=3.12
-  - readline=6.2=2
+  - readline=6.2
   - setuptools=27.2.0
-  - sqlite=3.13.0=0
+  - sqlite=3.13.0
   - tk=8.5.18=0
   - unidecode=0.04.20
   - wheel=0.29.0
-  - yaml=0.1.6=0
-  - zlib=1.2.8=3
+  - yaml=0.1.6
+  - zlib=1.2.8
   - six==1.10.0

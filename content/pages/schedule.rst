@@ -4,6 +4,8 @@
 This is the schedule for the quarter. **Check the schedule periodically for
 changes.**
 
+.. class:: table table-striped table-bordered
+
 ==  =============  ====================================  =================  =====
 #   Date           Topic                                 Materials          Assignment Due
 ==  =============  ====================================  =================  =====
