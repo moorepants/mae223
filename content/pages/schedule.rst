@@ -14,7 +14,7 @@ here.
                    - Jupyter Introduction
                    - Vector Calculus Review
 --  -------------  ------------------------------------  -----------------  -----
-02  T Oct 01       Reference Frames, Angular Rotation    - Ch. 1.2
+02  T Oct 01       Reference Frames, Angular Rotation    - Ch. 1.2          `SymPy Tutorial`_
 03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5       PS1: 1-11
 --  -------------  ------------------------------------  -----------------  -----
 04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8
@@ -121,3 +121,5 @@ NA  R Dec 12       **1:00-3:00PM** Proj. Presentations                      Proj
 .. _Video L21: https://youtu.be/IsXSXJlC2xI
 
 .. _Opty: http://opty.readthedocs.io
+
+.. _SymPy Tutorial: https://docs.sympy.org/latest/tutorial/
