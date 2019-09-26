@@ -14,22 +14,16 @@ Scientific Python ecosystem of software packages.
 Running The Software
 ====================
 
-Log into bicycle.ucdavis.edu with your UCD email address to access our local
-JupyterHub server at http://bicycle.ucdavis.edu. You can then either create a
-new terminal session or a "Python 3" Jupyter notebook.
+Log into jupyter.libretexts.org with your UCD email address to access our local
+JupyterHub server. You can then either create a new terminal session or a
+"Python 3" Jupyter notebook.
 
 Backing Up Your Work
 ====================
 
 The JupyterHub server has an automated backup in place should any problems
-occur, but it is recommended to regularly back up your own work. To do so,
-open a terminal from the JupyterHub interface (go to ``New -> Terminal``). From
-this terminal window, type ``backup-home``. This will find all of your files
-and put them in a zip file called ``backup.zip``, which you should then be able
-to see and download from JupyterHub interface. Any time you want to back up
-your work, you can run this command again from the terminal and it will add any
-new or changed files to the zip file on the server (you have to download it to
-your own computer each time).
+occur, but it is recommended to regularly back up your own work. Make sure to
+download any important files from the service reguarly.
 
 Installing the Software On Your Personal Computer
 =================================================
@@ -48,12 +42,45 @@ installed will be added here at a later date.
 Learning Python For Engineering Computation
 ===========================================
 
-These are my recommended resources:
+Start with the SymPy tutorial to get familiar with symbolic manipulation in
+Python:
 
-- The SciPy Lecture Notes: http://www.scipy-lectures.org/
-- Effective Computation in Physics Anthony Scopatz & Kathryn Huff
-  http://physics.codes/
-- https://stackoverflow.com/ (Q & A site, search for topics of interest)
+https://docs.sympy.org/latest/tutorial/
+
+The SymPy Physics Vector and Mechanics documentation provides explanations for
+the advanced features for rigid body mechanics;
+
+- https://docs.sympy.org/latest/modules/physics/vector
+- https://docs.sympy.org/latest/modules/physics/mechanics
+
+There is also a PyDy tutorial which starts with SymPy and ends with simulation
+with PyDy:
+
+https://github.com/pydy/pydy-tutorial-human-standing/
+
+To learn the core Python language (not scientific oriented computing) there are
+many many resources. My recommendations for beginners are:
+
+- Allen Downey's book ThinkPython_.
+- The tutorial on Python.org: https://docs.python.org/3/tutorial/
+
+.. _ThinkPython: http://greenteapress.com/wp/think-python/
+
+Python becomes most powerful for engineers by using the various packages in the
+Scientific Python Ecosystem. Here are my recommend resources for learning these
+topics:
+
+- The SciPy Lecture Notes is a wholistic resource for all things numerical
+  computing in Python: http://www.scipy-lectures.org/
+- The book "Effective Computation in Physics" by Anthony Scopatz & Kathryn Huff is
+  a guide that starts at ground zero for Python and leads you through the tools
+  and methods to be a computational engineer. http://physics.codes/
+- If you know some Matlab this guide is very helpful for looking up equivalent
+  commands in NumPy: `NumPy for Matlab Users
+  <https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html>`_.
+- Getting good at asking Google programming questions will almost always lead
+  you to https://stackoverflow.com/ which is a key resources for all kind of
+  programming questions.
 
 Each software package also has documentation:
 
@@ -63,13 +90,3 @@ Each software package also has documentation:
 - SymPy: http://docs.sympy.org/latest/index.html
 - matplotlib: https://matplotlib.org/contents.html
 - PyDy: http://www.pydy.org/documentation.html
-
-For beginning Python, I recommend ThinkPython_ by Allen Downey.
-
-.. _ThinkPython: http://greenteapress.com/wp/think-python/
-
-For Matlab users: `NumPy for Matlab Users
-<https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html>`_.
-
-There are thousands of other online resources that cover the full spectrum of
-using Python for scientific and engineering computing.
