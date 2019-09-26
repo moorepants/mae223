@@ -1,52 +1,85 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+
 <head>
-  <meta charset="utf-8" />
-  <title>Syllabus</title>
-  <link rel="stylesheet" href="https://moorepants.github.io/mae223/theme/css/main.css" />
-  <link rel="stylesheet" href="https://moorepants.github.io/mae223/theme/css/custom.css" />
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <!--[if IE]>
-      <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+  <title>  Syllabus | MAE/BIM 223: Multibody Dynamics
+</title>
+  <link rel="canonical" href="https://moorepants.github.io/mae223/index.html">
 
-  <script type="text/javascript"
-    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+  <link rel="stylesheet" href="https://moorepants.github.io/mae223/theme/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/mae223/theme/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/mae223/theme/css/pygments/emacs.min.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/mae223/theme/css/theme.css">
+
+  
+  <meta name="description" content="Course Description University of California, Davis Department of Mechanical and Aerospace Engineering Multibody Dynamics Fall 2017, Lecture: TR 10:00-11:50 AM, Wickson Hall 1020 CRN: 62952 (MAE), 63548 (BIM) After the completion of this class you will have developed the skills to model, interpret, simulate, and analyze multibody systems …">
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o);
+      a.async = 1;
+      a.src = g;
+      m = s.getElementsByTagName(o)[0];
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-15966419-8', 'auto');
+    ga('send', 'pageview');
   </script>
+
+
 </head>
 
-<body id="index" class="home">
-  <header id="banner" class="body">
-    <h1><a href="https://moorepants.github.io/mae223/">MAE 223: Multibody Dynamics </a></h1>
-    <nav><ul>
-        <li class="active"><a href="https://moorepants.github.io/mae223/">Syllabus</a></li>
-        <li><a href="https://moorepants.github.io/mae223/pages/schedule.html">Schedule</a></li>
-        <li><a href="https://moorepants.github.io/mae223/pages/software.html">Software</a></li>
-        <li><a href="https://moorepants.github.io/mae223/pages/project.html">Project</a></li>
-    </ul></nav>
-  </header><!-- /#banner -->
-<section id="content" class="body">
-    <h1 class="entry-title">Syllabus</h1>
-    
+<body>
+  <header class="header">
+    <div class="container">
+<div class="row">
+  <div class="col-sm-12">
+    <h1 class="title"><a href="https://moorepants.github.io/mae223/">MAE/BIM 223: Multibody Dynamics</a></h1>
+      <ul class="list-inline">
+            <li class="list-inline-item"><a href="https://moorepants.github.io/mae223/">Syllabus</a></li>
+            <li class="list-inline-item"><a href="https://moorepants.github.io/mae223/schedule.html">Schedule</a></li>
+            <li class="list-inline-item"><a href="https://moorepants.github.io/mae223/software.html">Software</a></li>
+            <li class="list-inline-item"><a href="https://moorepants.github.io/mae223/project.html">Project</a></li>
+      </ul>
+  </div>
+</div>    </div>
+  </header>
+
+  <div class="main">
+    <div class="container">
+      <h1>  Syllabus
+</h1>
+      <hr>
+
+<article class="article">
+  <div class="content">
     <div class="section" id="course-description">
-<h2>Course Description<a class="headerlink" href="#course-description" title="Permalink to this headline">¶</a></h2>
+<h2>Course Description</h2>
 <div class="line-block">
 <div class="line">University of California, Davis</div>
 <div class="line">Department of Mechanical and Aerospace Engineering</div>
 <div class="line">Multibody Dynamics</div>
-<div class="line">Fall 2017, Lecture: MW 10:00-11:50 AM</div>
-<div class="line">CRN: 63597</div>
+<div class="line">Fall 2017, Lecture: TR 10:00-11:50 AM, Wickson Hall 1020</div>
+<div class="line">CRN: 62952 (MAE), 63548 (BIM)</div>
 </div>
 <p>After the completion of this class you will have developed the skills to model,
 interpret, simulate, and analyze <a class="reference external" href="https://en.wikipedia.org/wiki/Multibody_system">multibody systems</a>, i.e. systems which are
 made up of interconnected rigid bodies with arbitrary constraints and applied
 loads. Mathematical models of multibody systems are typically very useful at
 predicting the motion of macro scale objects. <a class="reference external" href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion">Newton's laws of motion</a> are
-the foundation of developing predictive models of these systems.  Examples of
+the foundation of developing predictive models of these systems. Examples of
 systems you will be able to model are: spacecraft trajectories, human/animal
 biomechanics, vehicle motion, robot motion, etc.</p>
 <div class="section" id="catalog-description">
-<h3>Catalog Description<a class="headerlink" href="#catalog-description" title="Permalink to this headline">¶</a></h3>
+<h3>Catalog Description</h3>
 <blockquote>
 Lecture—4 hours. Prerequisite: Engineering 102. Coupled rigid-body
 kinematics/dynamics; reference frames; vector differentiation; configuration
@@ -57,54 +90,57 @@ equation derivation; orientation; Euler; Rodrigues parameters. (Same course
 as Biomedical Engineering 223.)—W, S. (W.) Eke, Ravani</blockquote>
 </div>
 <div class="section" id="learning-objectives">
-<h3>Learning Objectives<a class="headerlink" href="#learning-objectives" title="Permalink to this headline">¶</a></h3>
+<h3>Learning Objectives</h3>
 <p>Students will be able to:</p>
 <ul class="simple">
 <li>formulate a model and free body diagram of multibody systems</li>
-<li>derive the equations of motion of a multibody system</li>
 <li>incorporate holonomic and nonholonomic constraints into a multibody system</li>
+<li>derive the nonlinear and linear equations of motion of a multibody system</li>
 <li>simulate the motion of a multibody system with a computer</li>
 <li>interpret and analyze the results of simulation</li>
 </ul>
 </div>
 <div class="section" id="prerequites">
-<h3>Prerequites<a class="headerlink" href="#prerequites" title="Permalink to this headline">¶</a></h3>
-<p>The only required prerequisite is Engineering 102 or a similar course in
-introductory dynamics. You should also be proficient at at least one scientific
-programming language. We will be using Python in class.</p>
+<h3>Prerequites</h3>
+<p>The only required prerequisite is ENG 102 or a similar course in introductory
+dynamics. You should also be proficient with at least one scientific
+programming language. We will be using <a class="reference external" href="http://www.python.org">Python</a> in class.</p>
 </div>
 </div>
 <div class="section" id="instructor">
-<h2>Instructor<a class="headerlink" href="#instructor" title="Permalink to this headline">¶</a></h2>
+<h2>Instructor</h2>
 <div class="line-block">
 <div class="line">Jason K. Moore</div>
+<div class="line">Assistant Professor of Teaching</div>
 <div class="line">2095 Bainer Hall</div>
 <div class="line">530-752-4805</div>
 <div class="line"><a class="reference external" href="mailto:jkm&#64;ucdavis.edu">jkm&#64;ucdavis.edu</a></div>
 </div>
 </div>
 <div class="section" id="time-and-location">
-<h2>Time and Location<a class="headerlink" href="#time-and-location" title="Permalink to this headline">¶</a></h2>
-<p>We will meet in Bainer 1070 on Mondays and Wednesday from 10:00 AM to 11:50 AM.</p>
+<h2>Time and Location</h2>
+<p>We will meet in Wickson 1020 on Tuesdays and Thursdays from 10:00 AM to 11:50
+AM.</p>
 <p><strong>If you have any conflicts with the schedule you must tell me by email in the
-first week of class (emergencies will be the only exception).</strong></p>
+first week of class (major emergencies will be the only exception).</strong></p>
 </div>
 <div class="section" id="office-hours">
-<h2>Office Hours<a class="headerlink" href="#office-hours" title="Permalink to this headline">¶</a></h2>
-<p>Office hours are Tuesdays 1:10 pm to 2:00 pm and Thursdays 10:00 am to 10:50 am
-in Bainer 2095. If you can't make the regular scheduled office hours, check
-Jason's <a class="reference external" href="http://www.moorepants.info/work-calendar.html">work calendar</a> for an open time slot between 8:00 am and 6:30 pm
-Monday through Thursday and email him with a request for a meeting.</p>
+<h2>Office Hours</h2>
+<p>Office hours are TBA. If you can't make the regular scheduled office hours,
+check Jason's <a class="reference external" href="http://www.moorepants.info/work-calendar.html">work calendar</a> for an open time slot between 8:00 am and 6:30
+pm Monday through Thursday and email him with a request for a meeting.</p>
 </div>
 <div class="section" id="academic-integrity">
-<h2>Academic Integrity<a class="headerlink" href="#academic-integrity" title="Permalink to this headline">¶</a></h2>
-<p>Academic dishonesty will not be tolerated. Please visit the <a class="reference external" href="http://sja.ucdavis.edu/academic-integrity.html">Academic Integrity
-web page</a> from UC Davis Office of Student Judicial Affairs to review the
-campus' policy on academic responsibility and integrity and read the UC Davis
-<a class="reference external" href="http://sja.ucdavis.edu/cac.html">code of academic conduct</a>.</p>
+<h2>Academic Integrity</h2>
+<p>Academic dishonesty will not be tolerated. All assignments turned in for a
+grade must be your unique work and the exams should be completed solely by you
+with no assistance from others. Please visit the <a class="reference external" href="http://sja.ucdavis.edu/academic-integrity.html">Academic Integrity web page</a>
+from UC Davis Office of Student Judicial Affairs to review the campus' policy
+on academic responsibility and integrity and read the UC Davis <a class="reference external" href="http://sja.ucdavis.edu/cac.html">code of
+academic conduct</a>.</p>
 </div>
 <div class="section" id="course-text-and-materials">
-<h2>Course Text and Materials<a class="headerlink" href="#course-text-and-materials" title="Permalink to this headline">¶</a></h2>
+<h2>Course Text and Materials</h2>
 <p>The majority of preparation and readings for the lectures will come from this
 textbook:</p>
 <blockquote>
@@ -122,26 +158,27 @@ class. Other useful references will be added to the resources tab of this
 website as we move through the course.</p>
 </div>
 <div class="section" id="software">
-<h2>Software<a class="headerlink" href="#software" title="Permalink to this headline">¶</a></h2>
-<p>We will be making extensive use of <a class="reference external" href="http://pydy.org">PyDy</a> and <a class="reference external" href="http://sympy.org">SymPy</a> to model and simulate
-multibody systems. These packages are written in the open source Python
-programming language and leverage the SciPy ecosystem of scientific and
-engineering computing tools. You will have access to these through our
-JupyterHub server at <a class="reference external" href="https://bicycle.ucdavis.edu">bicycle.ucdavis.edu</a>. You may also install the software on
-your own computer. You will need to bring your laptop, tablet, or phone to
-class to follow along with the interactive sessions. See the <a class="reference external" href="https://moorepants.github.io/mae223/pages/software.html">software page</a>
-on this website for more information.</p>
+<h2>Software</h2>
+<p>We will be making extensive use of the computer aided algebra software <a class="reference external" href="http://sympy.org">SymPy</a>
+and simulation software <a class="reference external" href="http://pydy.org">PyDy</a> to model and simulate multibody systems. These
+packages are written in the open source Python programming language and
+leverage the <a class="reference external" href="http://scipy.org">SciPy</a> ecosystem of scientific and engineering computing tools.
+You will have access to these through our JupyterHub server at
+<a class="reference external" href="https://bicycle.ucdavis.edu">bicycle.ucdavis.edu</a>. You may also install the software on your own computer.
+It is recommended that bring your laptop, tablet, or phone to class to follow along
+with the interactive sessions (laptop is recommended). See the <a class="reference external" href="https://moorepants.github.io/mae223/software.html">software
+page</a> on this website for more information.</p>
 </div>
 <div class="section" id="assignments-grades">
-<h2>Assignments &amp; Grades<a class="headerlink" href="#assignments-grades" title="Permalink to this headline">¶</a></h2>
-<p>Being a graduate class, we will not be focused on grading many different
+<h2>Assignments &amp; Grades</h2>
+<p>Being a graduate class, I will not be focused on grading many different
 detailed aspects of the class. You will be expected to do as much or little
 practice as needed to pass the exams and complete your project. Homework
 problems will be suggested but not graded. I recommend talking through homework
-solutions with your classmates and me during office hours.</p>
+solutions with your classmates and the instructor during office hours.</p>
 <p>Grades will be available in the <a class="reference external" href="http://canvas.ucdavis.edu">canvas.ucdavis.edu</a> grade book periodically
 throughout the course along with class statistics.</p>
-<table border="1" class="docutils">
+<table border="1" class="table table-striped table-bordered docutils">
 <colgroup>
 <col width="89%" />
 <col width="11%" />
@@ -177,9 +214,9 @@ class during the final exam time.</dd>
 </dl>
 </div>
 <div class="section" id="canvas">
-<h2>Canvas<a class="headerlink" href="#canvas" title="Permalink to this headline">¶</a></h2>
+<h2>Canvas</h2>
 <p>We will make use of Canvas for the course. Log in to <a class="reference external" href="http://canvas.ucdavis.edu">canvas.ucdavis.edu</a> with
-your Kerberos ID and passphrase then select <strong>MAE 223 001 FQ 2017</strong>.</p>
+your Kerberos ID and passphrase then select <strong>MAE 223 001 FQ 2019</strong>.</p>
 <p>We will be using several features in Canvas:</p>
 <dl class="docutils">
 <dt>Announcements</dt>
@@ -198,72 +235,56 @@ website.</dd>
 </dl>
 </div>
 <div class="section" id="communication">
-<h2>Communication<a class="headerlink" href="#communication" title="Permalink to this headline">¶</a></h2>
-<p>This class requires a lot of communication: among your team, with your
-sponsors, with your mentors, and with the instructors. This can quickly get
-unmanageable, especially for the instructors' email inboxes. So here are some
-simple rules to follow with respect to communication:</p>
+<h2>Communication</h2>
 <dl class="docutils">
-<dt><a class="reference external" href="http://piazza.com/ucdavis/fall2017/mae223">Piazza</a></dt>
+<dt>Canvas Discussions</dt>
 <dd>This is the first place to ask questions. Use this forum to ask questions
 that are general for the class. Try to restructure your less general
 questions into general ones so you can ask here. This minimizes the number
 of times a question has to be answered and allows both students and
-instructors to collectively answer questions. Note that there is a single
-instructor answer and a single student(s) answer. Your contributions to
-answering questions on Piazza will be used to boost your grade on borderline
-cases.</dd>
+instructors to collectively answer questions.</dd>
 <dt>Email</dt>
 <dd>Use email for individualized communication, i.e. for questions about project
 specifics or other personal needs. Prepend &quot;[MAE223]&quot; to their subject line.</dd>
 <dt>Office Hours</dt>
 <dd>Please come visit me in office hours to discuss your work. The earlier, the
-better.</dd>
+better and I recommend doing this often.</dd>
 <dt>Appointments</dt>
 <dd>You may schedule an appointment with me outside of office hours if all of
 the above doesn't work for some reason. Use this as a last resort.</dd>
 </dl>
 </div>
-</section>
-  <section id="extras" class="body">
-  </section><!-- /#extras -->
-  <footer id="contentinfo" class="body">
-    <address id="about" class="vcard body">
-      <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-        <a rel="license"
-          href="http://creativecommons.org/publicdomain/zero/1.0/">
-          <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-        </a>
-        <br />
-        To the extent possible under law,
-        <a rel="dct:publisher"
-          href="http://moorepants.info">
-          <span property="dct:title">Jason K. Moore</span>
-        </a>
-        has waived all copyright and related or neighboring rights to
-        <span property="dct:title">MAE 223: Multibody Dynamics Website</span>.
-        This work is published from:
-        <span property="vcard:Country" datatype="dct:ISO3166"
-          content="US" about="http://moorepants.info">
-        United States</span>.
-      </p>
-      Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-      <p>The source for the website is <a
-        href="https://github.com/moorepants/eme185">hosted on
-        Github</a>. Report issues
-      and make contributions there.</p>
-    </address><!-- /#about -->
-  </footer><!-- /#contentinfo -->
 
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  </div>
+</article>
 
-    ga('create', 'UA-15966419-8', 'auto');
-    ga('send', 'pageview');
 
-  </script>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+<div class="row">
+  <ul class="col-sm-6 list-inline">
+      <li class="list-inline-item"><a href="https://moorepants.github.io/mae223/authors.html">Authors</a></li>
+    <li class="list-inline-item"><a href="https://moorepants.github.io/mae223/archives.html">Archives</a></li>
+    <li class="list-inline-item"><a href="https://moorepants.github.io/mae223/categories.html">Categories</a></li>
+  </ul>
+  <p class="col-sm-6 text-sm-right text-muted">
+    Generated by <a href="https://github.com/getpelican/pelican" target="_blank">Pelican</a>
+    / <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">&#x2728;</a>
+  </p>
+</div>
+<div class="row">
+  <div class="col-sm-4 mx-auto text-center text-muted" >
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+      <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+    </a>
+    <br />
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+  </div>
+</div>    </div>
+  </footer>
 </body>
+
 </html>
