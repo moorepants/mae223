@@ -124,15 +124,15 @@ and simulation software PyDy_ to model and simulate multibody systems. These
 packages are written in the open source Python programming language and
 leverage the SciPy_ ecosystem of scientific and engineering computing tools.
 You will have access to these through our JupyterHub server at
-bicycle.ucdavis.edu_. You may also install the software on your own computer.
-It is recommended that bring your laptop, tablet, or phone to class to follow along
-with the interactive sessions (laptop is recommended). See the `software
-page`_ on this website for more information.
+jupyter.libretexts.org_. You may also install the software on your own
+computer. It is recommended that bring your laptop, tablet, or phone to class
+to follow along with the interactive sessions (laptop is recommended). See the
+`software page`_ on this website for more information.
 
 .. _SymPy: http://sympy.org
 .. _PyDy: http://pydy.org
 .. _SciPy: http://scipy.org
-.. _bicycle.ucdavis.edu: https://bicycle.ucdavis.edu
+.. _jupyter.libretexts.org: https://jupyter.libretexts.org
 .. _software page: {filename}/pages/software.rst
 
 Assignments & Grades
