@@ -41,8 +41,8 @@ Learning Objectives
 Students will be able to:
 
 - formulate a model and free body diagram of multibody systems
-- derive the equations of motion of a multibody system
 - incorporate holonomic and nonholonomic constraints into a multibody system
+- derive the nonlinear and linear equations of motion of a multibody system
 - simulate the motion of a multibody system with a computer
 - interpret and analyze the results of simulation
 
@@ -59,6 +59,7 @@ Instructor
 ==========
 
 | Jason K. Moore
+| Assistant Professor of Teaching
 | 2095 Bainer Hall
 | 530-752-4805
 | jkm@ucdavis.edu
@@ -75,10 +76,9 @@ first week of class (major emergencies will be the only exception).**
 Office Hours
 ============
 
-Office hours are Tuesdays 1:10 pm to 2:00 pm and Thursdays 10:00 am to 10:50 am
-in Bainer 2095. If you can't make the regular scheduled office hours, check
-Jason's `work calendar`_ for an open time slot between 8:00 am and 6:30 pm
-Monday through Thursday and email him with a request for a meeting.
+Office hours are TBA. If you can't make the regular scheduled office hours,
+check Jason's `work calendar`_ for an open time slot between 8:00 am and 6:30
+pm Monday through Thursday and email him with a request for a meeting.
 
 .. _work calendar: http://www.moorepants.info/work-calendar.html
 
@@ -122,26 +122,27 @@ Software
 We will be making extensive use of the computer aided algebra software SymPy_
 and simulation software PyDy_ to model and simulate multibody systems. These
 packages are written in the open source Python programming language and
-leverage the SciPy ecosystem of scientific and engineering computing tools. You
-will have access to these through our JupyterHub server at
+leverage the SciPy_ ecosystem of scientific and engineering computing tools.
+You will have access to these through our JupyterHub server at
 bicycle.ucdavis.edu_. You may also install the software on your own computer.
-You will need to bring your laptop, tablet, or phone to class to follow along
-with the interactive sessions (laptop is recommended).  See the `software
+It is recommended that bring your laptop, tablet, or phone to class to follow along
+with the interactive sessions (laptop is recommended). See the `software
 page`_ on this website for more information.
 
 .. _SymPy: http://sympy.org
 .. _PyDy: http://pydy.org
+.. _SciPy: http://scipy.org
 .. _bicycle.ucdavis.edu: https://bicycle.ucdavis.edu
 .. _software page: {filename}/pages/software.rst
 
 Assignments & Grades
 ====================
 
-Being a graduate class, we will not be focused on grading many different
+Being a graduate class, I will not be focused on grading many different
 detailed aspects of the class. You will be expected to do as much or little
 practice as needed to pass the exams and complete your project. Homework
 problems will be suggested but not graded. I recommend talking through homework
-solutions with your classmates and me during office hours.
+solutions with your classmates and the instructor during office hours.
 
 Grades will be available in the canvas.ucdavis.edu_ grade book periodically
 throughout the course along with class statistics.
