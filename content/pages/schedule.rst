@@ -53,6 +53,24 @@ NA  F Dec 10                                                                Exam
 NA  R Dec 12       **1:00-3:00PM** Proj. Presentations                      Project Report Due
 ==  =============  ====================================  =================  =====
 
+Videos
+======
+
+The videos from the 2017 lectures are all available online and will roughly
+correspond to the current lectures:
+
+.. raw:: html
+
+   <iframe
+     width="560"
+     height="315"
+     src="https://www.youtube.com/embed/videoseries?list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL"
+     frameborder="0"
+     allow="autoplay;
+     encrypted-media"
+     allowfullscreen>
+   </iframe>
+
 .. _Notes L1: {filename}/lecture-notes/mae223-l1.pdf
 .. _Notes L2: {filename}/lecture-notes/mae223-l2.pdf
 .. _Notes L3: {filename}/lecture-notes/mae223-l3.pdf
