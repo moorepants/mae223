@@ -14,9 +14,9 @@ Scientific Python ecosystem of software packages.
 Running The Software
 ====================
 
-Log into jupyter.libretexts.org with your UCD email address to access our local
-JupyterHub server. You can then either create a new terminal session or a
-"Python 3" Jupyter notebook.
+Log into http://jupyter.libretexts.org with your UCD email address to access
+our local JupyterHub server. You can then either create a new terminal session
+or a "Python 3" Jupyter notebook.
 
 Backing Up Your Work
 ====================
