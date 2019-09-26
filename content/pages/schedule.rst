@@ -2,121 +2,56 @@
 :sortorder: 1
 
 This is the schedule for the quarter. **Check the schedule periodically for
-changes.**
+changes.** All lecture notes, Jupyter notebooks, and scripts will be added
+here.
 
-=============  ====================================  =================  =====
-Date           Topic                                 Materials          Assignment Due
-=============  ====================================  =================  =====
-W Sep 27       - Introduction                        - Ch 1
-               - Jupyter Introduction                - `Notes L1`_
-               - Vector Calculus Review              - `IPYNB L1`_
-                                                     - `Video L1`_
--------------  ------------------------------------  -----------------  -----
-M Oct 02       Reference Frames, Angular Rotation    - Ch. 1.2
-                                                     - `Notes L2`_
-                                                     - `IPYNB L2`_
-                                                     - `Video L2`_
-W Oct 04       Angular Velocity and Acceleration     - Ch 2.1-2.5
-                                                     - `Notes L3`_
-                                                     - `IPYNB L3`_
-                                                     - `Video L3`_
--------------  ------------------------------------  -----------------  -----
-M Oct 09       Points and Linear Motion              - Ch. 2.6-2.8
-                                                     - `Notes L4`_
-                                                     - `IPYNB L4`_
-                                                     - `Video L4`_
-W Oct 11       Linear Velocity and Acceleration      - Ch. 2.6-2.8
-                                                     - `Notes L5`_
-                                                     - `IPYNB L5`_
-                                                     - `Video L5`_
--------------  ------------------------------------  -----------------  -----
-M Oct 16       Configuration Constraints             - Ch. 2.9
-                                                     - `Notes L6`_
-                                                     - `IPYNB L6`_
-                                                     - `Video L6`_
-W Oct 18       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
-                                                     - `Notes L7`_
-                                                     - `Video L7`_
-F Oct 20                                                                Project Proposal
--------------  ------------------------------------  -----------------  -----
-M Oct 23       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
-                                                     - `Notes L8`_
-                                                     - `IPYNB L8`_
-                                                     - `Video L8`_
-W Oct 25       - Partial Velocities                  - Ch. 2.14
-               - Midterm Review                      - `Notes L9`_
-                                                     - `Video L9`_
--------------  ------------------------------------  -----------------  -----
-M Oct 30       - Mass and Inertia                    - Ch. 3.1-3.5      Exam 1
-                                                     - `Notes L10`_
-                                                     - `Video L10`_
-W Nov 01       - Inertia
-               - Tensors and Dyadics                 - `Notes L11`_
-                                                     - `IPYNB L11`_
-                                                     - `Video L11`_
--------------  ------------------------------------  -----------------  -----
-M Nov 06       - Midterm problems                    - `Notes L12`_
-               - Principal Moments of Inertia        - Ch. 3.6-3.9
-                                                     - `IPYNB L12`_
-                                                     - `Video L12`_
-W Nov 08       Forces and Torques                    - Ch. 4.1-4.8
-                                                     - `Notes L13`_
-                                                     - `IPYNB L13`_
-                                                     - `Video L13`_
-F Nov 11       Veteran's Day Holiday
--------------  ------------------------------------  -----------------  -----
-M Nov 13       Generalized Active Forces             - Ch. 6.1
-                                                     - `Video L14`_
-W Nov 15       Generalized Inertia Forces            - `Notes L15`_
-                                                     - `Video L15`_
--------------  ------------------------------------  -----------------  -----
-M Nov 20       Simulation and Visualization          - `IPYNB L16`_
-                                                     - `Video L16`_
-W Nov 22       - Simulation                          - `IPYNB L17-1`_
-               - Visualization                       - `IPYNB L17-2`_
-               - Noncontributing Loads               - Ch. 4.9
-                                                     - `IPYNB L17-3`_
-                                                     - `IPYNB L17-4`_
-                                                     - `Notes L17`_
-                                                     - `Video L17`_
-R Nov 23       Thanksgiving Holiday
-F Nov 24       Thanksgiving Holiday
--------------  ------------------------------------  -----------------  -----
-M Nov 27       - Simulating with specified inputs    - `IPYNB L18-1`_
-               - Rolling disc EoMs                   - `IPYNB L18-2`_
-                                                     - `Notes L18`_
-                                                     - `Video L18`_
-W Nov 29       - Simulating the rolling disc         - `IPYNB L19-1`_
-               - Trajectory optimization             - `IPYNB L19-2`_
-                                                     - `Slides 19`_
-                                                     - `Opty`_
-                                                     - `Video L19`_
--------------  ------------------------------------  -----------------  -----
-M Dec 04       - Trajectory Optimization             - `IPYNB L20-1`_
-               - Linearization                       - `IPYNB L20-2`_
-                                                     - `Notes L20`_
-                                                     - `Video L20`_
-W Dec 06       - Linearization                       - `IPYNB L21-2`_
-               - Alternative coordinates             - `Notes L21`_
-                                                     - `Video L21`_
--------------  ------------------------------------  -----------------  -----
-T Dec 12                                                                Exam Due
-R Dec 14       **3:30-5:30PM** Proj. Presentations                      Project Report Due
-=============  ====================================  =================  =====
+.. class:: table table-striped table-bordered
 
-Suggested Problem Sets
-======================
-
-These are suggested problem sets from the text book:
-
-- Problem Set 1: All
-- Problem Set 2: 2, 3, 7, 8, 10, 11
-- Problem Set 3: 1, 3, 4, 6, 10
-- Problem Set 4: 2, 3, 7, 8, 11, 13, 14
-- Problem Set 5: 5, 6, 7, 8
-- Problem Set 6: 1, 7, 8
-- Problem Set 7: 1, 2, 7
-- Problem Set 8: 1, 2, 3, 4, 6
+==  =============  ====================================  =================  =====
+#   Date           Topic                                 Materials          Assignment Due
+==  =============  ====================================  =================  =====
+01  R Sep 26       - Introduction                        - Ch 1
+                   - Jupyter Introduction
+                   - Vector Calculus Review
+--  -------------  ------------------------------------  -----------------  -----
+02  T Oct 01       Reference Frames, Angular Rotation    - Ch. 1.2          `SymPy Tutorial`_
+03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5       PS1: 1-11
+--  -------------  ------------------------------------  -----------------  -----
+04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8
+05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8      PS2: 2,3,7,8,10,11
+--  -------------  ------------------------------------  -----------------  -----
+06  T Oct 15       Configuration Constraints             - Ch. 2.9-2.11
+07  R Oct 17       Gen. Speeds and Motion Constraints    - Ch. 2.12-13      PS3: 1,3,4,6,10
+NA  F Oct 18                                                                Project Proposal
+--  -------------  ------------------------------------  -----------------  -----
+08  T Oct 22       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
+09  R Oct 24       Partial Velocities                    - Ch. 2.14
+--  -------------  ------------------------------------  -----------------  -----
+10  T Oct 29       Mass and Inertia                      - Ch. 3.1-3.4      - PS4: 2,3,7,8,11,13,14
+                                                                            - Exam 1 Provided
+11  R Oct 31       Inertia: Tensors and Dyadics          - Ch. 3.5-3.6
+NA  F Nov 01                                                                Exam 1 Due
+--  -------------  ------------------------------------  -----------------  -----
+12  T Nov 05       Principal Moments of Inertia          - Ch. 3.8-3.9      PS5: 5,6,7,8
+13  R Nov 07       Forces and Torques                    - Ch. 4.1-4.8      PS6: 1,7,8
+--  -------------  ------------------------------------  -----------------  -----
+NA  M Nov 11       Veteran's Day Holiday
+15  T Nov 12       Generalized Active Forces             - Ch. 4.4
+16  R Nov 14       Generalized Inertia Forces            - Ch. 4.11, 6.1    PS7: 1,2,7
+--  -------------  ------------------------------------  -----------------  -----
+17  T Nov 19       Noncontributing Loads                 - Ch. 4.9
+18  R Nov 21       Simulation & Visualization            - Ch. 7.5          PS8: 1,2,3,4,6
+--  -------------  ------------------------------------  -----------------  -----
+19  T Nov 26       Simulating the rolling disc
+NA  R Nov 28       Thanksgiving Holiday
+NA  F Nov 29       Thanksgiving Holiday
+--  -------------  ------------------------------------  -----------------  -----
+20  T Dec 03       Linearization                         - Ch. 6.4          Exam 2 Provided
+21  R Dec 05       Alternative coordinates
+NA  F Dec 10                                                                Exam Due
+--  -------------  ------------------------------------  -----------------  -----
+NA  R Dec 12       **1:00-3:00PM** Proj. Presentations                      Project Report Due
+==  =============  ====================================  =================  =====
 
 .. _Notes L1: {filename}/lecture-notes/mae223-l1.pdf
 .. _Notes L2: {filename}/lecture-notes/mae223-l2.pdf
@@ -186,3 +121,5 @@ These are suggested problem sets from the text book:
 .. _Video L21: https://youtu.be/IsXSXJlC2xI
 
 .. _Opty: http://opty.readthedocs.io
+
+.. _SymPy Tutorial: https://docs.sympy.org/latest/tutorial/

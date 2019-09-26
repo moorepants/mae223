@@ -10,6 +10,9 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+THEME = "pelican-alchemy/alchemy"
+PLUGIN_PATHS = "pelican-plugins"
+
 if 'TRAVIS_TAG' in os.environ and os.environ.get('TRAVIS_TAG') is not '':
     TAG_DIR = '/' + os.environ.get('TRAVIS_TAG')
 else:
