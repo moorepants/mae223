@@ -11,10 +11,10 @@ here.
 #   Date           Topic                                 Materials          Assignment Due
 ==  =============  ====================================  =================  =====
 01  R Sep 26       - Introduction                        - Ch 1
-                   - Jupyter Introduction
-                   - Vector Calculus Review
+                   - Jupyter Introduction                - `Slides 01`_
+                                                         - `IPYNB 01`_
 --  -------------  ------------------------------------  -----------------  -----
-02  T Oct 01       Reference Frames, Angular Rotation    - Ch. 1.2          `SymPy Tutorial`_
+02  T Oct 01       Vectors, Ref. Frames, Ang. Rotation   - Ch. 1.2          `SymPy Tutorial`_
 03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5       PS1: 1-11
 --  -------------  ------------------------------------  -----------------  -----
 04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8
@@ -71,7 +71,10 @@ correspond to the current lectures:
      allowfullscreen>
    </iframe>
 
-.. _Notes L1: {filename}/lecture-notes/mae223-l1.pdf
+.. _Slides 01: https://objects-us-east-1.dream.io/mae223/2019f/slides-l01.pdf
+.. _Slides 19: https://nbviewer.jupyter.org/format/slides/github/moorepants/SCIPY2015/blob/master/presentation/human_control_param_id.ipynb#/
+
+.. _Notes L1: https://objects-us-east-1.dream.io/mae223/2019f/notes-l01.pdf
 .. _Notes L2: {filename}/lecture-notes/mae223-l2.pdf
 .. _Notes L3: {filename}/lecture-notes/mae223-l3.pdf
 .. _Notes L4: {filename}/lecture-notes/mae223-l4.pdf
@@ -90,31 +93,28 @@ correspond to the current lectures:
 .. _Notes L20: {filename}/lecture-notes/mae223-l20.pdf
 .. _Notes L21: {filename}/lecture-notes/mae223-l21.pdf
 
-.. _IPYNB L1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_09_27_mae223_l1.ipynb
-.. _IPYNB L2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_02_mae223_l2.ipynb
-.. _IPYNB L3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_04_mae223_l3.ipynb
-.. _IPYNB L4: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_09_mae223_l4.ipynb
-.. _IPYNB L5: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_11_mae223_l5.ipynb
-.. _IPYNB L6: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_16_mae223_l6.ipynb
-.. _IPYNB L8: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_10_23_mae223_l8.ipynb
-.. _IPYNB L11: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_01_mae223_l11.ipynb
-.. _IPYNB L12: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_06_mae223_l12.ipynb
-.. _IPYNB L13: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_08_mae223_l13.ipynb
-.. _IPYNB L16: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_20_mae223_l16.ipynb
-.. _IPYNB L17-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_22_mae223_l17_01.ipynb
-.. _IPYNB L17-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_22_mae223_l17_02.ipynb
-.. _IPYNB L17-3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_22_mae223_l17_03.ipynb
-.. _IPYNB L17-4: https://nbviewer.jupyter.org/github/pydy/pydy/blob/master/examples/chaos_pendulum/chaos_pendulum.ipynb
-.. _IPYNB L18-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_27_mae223_l18_01.ipynb
-.. _IPYNB L18-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_27_mae223_l18_02.ipynb
-.. _IPYNB L19-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_29_mae223_l19_01.ipynb
-.. _IPYNB L19-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_29_mae223_l19_02.ipynb
-.. _IPYNB L19-3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_11_29_mae223_l19_03.ipynb
-.. _IPYNB L20-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_12_04_mae223_l20_01.ipynb
-.. _IPYNB L20-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_12_04_mae223_l20_02.ipynb
-.. _IPYNB L21-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/2017_12_06_mae223_l21_02.ipynb
-
-.. _Slides 19: https://nbviewer.jupyter.org/format/slides/github/moorepants/SCIPY2015/blob/master/presentation/human_control_param_id.ipynb#/
+.. _IPYNB L1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l1.ipynb
+.. _IPYNB L2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l2.ipynb
+.. _IPYNB L3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l3.ipynb
+.. _IPYNB L4: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l4.ipynb
+.. _IPYNB L5: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l5.ipynb
+.. _IPYNB L6: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l6.ipynb
+.. _IPYNB L8: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l8.ipynb
+.. _IPYNB L11: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l11.ipynb
+.. _IPYNB L12: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l12.ipynb
+.. _IPYNB L13: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l13.ipynb
+.. _IPYNB L16: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l16.ipynb
+.. _IPYNB L17-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l17_01.ipynb
+.. _IPYNB L17-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l17_02.ipynb
+.. _IPYNB L17-3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l17_03.ipynb
+.. _IPYNB L18-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l18_01.ipynb
+.. _IPYNB L18-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l18_02.ipynb
+.. _IPYNB L19-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l19_01.ipynb
+.. _IPYNB L19-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l19_02.ipynb
+.. _IPYNB L19-3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l19_03.ipynb
+.. _IPYNB L20-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l20_01.ipynb
+.. _IPYNB L20-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l20_02.ipynb
+.. _IPYNB L21-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l21_02.ipynb
 
 .. _Video L1: https://youtu.be/1Tyxgv7RUdk
 .. _Video L2: https://youtu.be/54N8e58pUTE
