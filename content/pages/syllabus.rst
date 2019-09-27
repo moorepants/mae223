@@ -45,6 +45,7 @@ Students will be able to:
 - derive the nonlinear and linear equations of motion of a multibody system
 - simulate the motion of a multibody system with a computer
 - interpret and analyze the results of simulation
+- understand and explain notable dynamic phenomena
 
 Prerequites
 -----------
