@@ -11,8 +11,8 @@ here.
 #   Date           Topic                                 Materials          Assignment Due
 ==  =============  ====================================  =================  =====
 01  R Sep 26       - Introduction                        - Ch 1
-                   - Jupyter Introduction                - `Slides 01`_
-                                                         - `IPYNB 01`_
+                   - Jupyter Introduction                - `Slides L01`_
+                                                         - `IPYNB L01`_
 --  -------------  ------------------------------------  -----------------  -----
 02  T Oct 01       Vectors, Ref. Frames, Ang. Rotation   - Ch. 1.2          `SymPy Tutorial`_
 03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5       PS1: 1-11
@@ -71,18 +71,18 @@ correspond to the current lectures:
      allowfullscreen>
    </iframe>
 
-.. _Slides 01: https://objects-us-east-1.dream.io/mae223/2019f/slides-l01.pdf
+.. _Slides L01: https://objects-us-east-1.dream.io/mae223/2019f/slides-l01.pdf
 .. _Slides 19: https://nbviewer.jupyter.org/format/slides/github/moorepants/SCIPY2015/blob/master/presentation/human_control_param_id.ipynb#/
 
-.. _Notes L1: https://objects-us-east-1.dream.io/mae223/2019f/notes-l01.pdf
-.. _Notes L2: {filename}/lecture-notes/mae223-l2.pdf
-.. _Notes L3: {filename}/lecture-notes/mae223-l3.pdf
-.. _Notes L4: {filename}/lecture-notes/mae223-l4.pdf
-.. _Notes L5: {filename}/lecture-notes/mae223-l5.pdf
-.. _Notes L6: {filename}/lecture-notes/mae223-l6.pdf
-.. _Notes L7: {filename}/lecture-notes/mae223-l7.pdf
-.. _Notes L8: {filename}/lecture-notes/mae223-l8.pdf
-.. _Notes L9: {filename}/lecture-notes/mae223-l9.pdf
+.. _Notes L01: https://objects-us-east-1.dream.io/mae223/2019f/notes-l01.pdf
+.. _Notes L02: {filename}/lecture-notes/mae223-l2.pdf
+.. _Notes L03: {filename}/lecture-notes/mae223-l3.pdf
+.. _Notes L04: {filename}/lecture-notes/mae223-l4.pdf
+.. _Notes L05: {filename}/lecture-notes/mae223-l5.pdf
+.. _Notes L06: {filename}/lecture-notes/mae223-l6.pdf
+.. _Notes L07: {filename}/lecture-notes/mae223-l7.pdf
+.. _Notes L08: {filename}/lecture-notes/mae223-l8.pdf
+.. _Notes L09: {filename}/lecture-notes/mae223-l9.pdf
 .. _Notes L10: {filename}/lecture-notes/mae223-l10.pdf
 .. _Notes L11: {filename}/lecture-notes/mae223-l11.pdf
 .. _Notes L12: {filename}/lecture-notes/mae223-l12.pdf
@@ -93,13 +93,13 @@ correspond to the current lectures:
 .. _Notes L20: {filename}/lecture-notes/mae223-l20.pdf
 .. _Notes L21: {filename}/lecture-notes/mae223-l21.pdf
 
-.. _IPYNB L1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l1.ipynb
-.. _IPYNB L2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l2.ipynb
-.. _IPYNB L3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l3.ipynb
-.. _IPYNB L4: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l4.ipynb
-.. _IPYNB L5: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l5.ipynb
-.. _IPYNB L6: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l6.ipynb
-.. _IPYNB L8: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l8.ipynb
+.. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
+.. _IPYNB L02: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l2.ipynb
+.. _IPYNB L03: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l3.ipynb
+.. _IPYNB L04: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l4.ipynb
+.. _IPYNB L05: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l5.ipynb
+.. _IPYNB L06: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l6.ipynb
+.. _IPYNB L08: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l8.ipynb
 .. _IPYNB L11: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l11.ipynb
 .. _IPYNB L12: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l12.ipynb
 .. _IPYNB L13: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l13.ipynb
