@@ -18,6 +18,10 @@ Log into http://jupyter.libretexts.org with your UCD email address to access
 our local JupyterHub server. You can then either create a new terminal session
 or a "Python 3" Jupyter notebook.
 
+`This webcast`_ is a nice way to get familiar with the Jupyter Lab interface.
+
+.. _This webcast: https://app.frame.io/reviews/7a3a3e89-63db-4f7d-a1db-c2a852275f75/b82343bc-f242-4f5e-87a3-5c89dd0408f4?version=e0ce5c2f-28f9-4eb2-988a-8988851aa881
+
 Backing Up Your Work
 ====================
 

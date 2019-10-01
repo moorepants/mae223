@@ -15,6 +15,7 @@ here.
                                                          - `IPYNB L01`_
 --  -------------  ------------------------------------  -----------------  -----
 02  T Oct 01       Vectors, Ref. Frames, Ang. Rotation   - Ch. 1.2          `SymPy Tutorial`_
+                                                         - `Video L02`_
 03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5       PS1: 1-11
 --  -------------  ------------------------------------  -----------------  -----
 04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8
@@ -73,6 +74,8 @@ correspond to the current lectures:
 
 .. _Slides L01: https://objects-us-east-1.dream.io/mae223/2019f/slides-l01.pdf
 .. _Slides 19: https://nbviewer.jupyter.org/format/slides/github/moorepants/SCIPY2015/blob/master/presentation/human_control_param_id.ipynb#/
+
+.. _Video L02: https://objects-us-east-1.dream.io/mae223/2019f/hockey-stick.mp4
 
 .. _Notes L01: https://objects-us-east-1.dream.io/mae223/2019f/notes-l01.pdf
 .. _Notes L02: {filename}/lecture-notes/mae223-l2.pdf
