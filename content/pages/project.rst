@@ -87,58 +87,11 @@ examples:
 Project Ideas
 =============
 
-The Skateboard Ollie
---------------------
-
-Skateboarders are able to jump with the skateboard seemingly attached to their
-feet, yet it isn't. The technique is called the "ollie" and revolutionzed the
-sport when invented. The technique is now the foundation for hundreds of
-similar tricks. The skateboarder uses a combination of popping the board at and
-angle and then lifting the board usign the friction between their foot and the
-surface of the board to bring the board into the air. The goal of this project
-would be to develop a model of a skateboard that can be "ollied" and attempt to
-do so.
-
-Single Track Vehicles
----------------------
-
-There are many interesting single track vehicles that would offer opportunties
-for mutlibody modeling. For example, bicycies, scooters, motorcycles,
-moncycles, single wheel trailers, titling vehicles. snake boards, unicycles
-
-Animal Motion
--------------
-
-Animals have evolved a very large variety of ways to locomote from hopping,
-sliding, flywing, to multileg walking
-
-Gyro-Balanced Titling Vehicles
-------------------------------
-
-Vehicles that tilt significantly in roll (and that are often
-
-Robotic Arms
-------------
-
-Boston Dynamic's Spot
----------------------
-
-Theo Jansen's Straandbeesten
-----------------------------
-
-Theo Jansen developed a multi-bar linkage that translates rotational motion
-into linear motion that works well for making walking machines. Modleling and
-analyzing this linkage or something similar would work well for a project.
-
-Toys
-----
-
-The walking rabbit, the oloid, the rattleback,
-
-http://www.dct.tue.nl/New/Leine/toys.html
-
 Mechanisms
 ----------
+
+There are thousands of intersting mechanisms. There are several collections of
+mechanisms:
 
 - `Animated Mechanisms`_ - A huge searchable youtube video list of thousands of mechanisms and movements.
 - `Kinematic mechanisms - CornellU`_
@@ -149,6 +102,69 @@ Mechanisms
 .. _Kinematic mechanisms - CornellU: http://kmoddl.library.cornell.edu/model.php
 .. _507 Mechanical Movements: http://507movements.com/
 .. _Mechanism collection -TU Delft: http://www.mechanisms.antonkb.nl/
+
+Theo Jansen's Straandbeesten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Theo Jansen developed a multi-bar linkage that translates rotational motion
+into linear motion that works well for making walking machines. Modleling and
+analyzing this linkage or something similar would work well for a project.
+
+Vehicles
+--------
+
+Single Track Vehicles
+~~~~~~~~~~~~~~~~~~~~~
+
+There are many interesting single track vehicles that would offer opportunties
+for mutlibody modeling. For example, bicycies, scooters, motorcycles,
+moncycles, single wheel trailers, titling vehicles. snake boards, unicycles
+
+Gyro-Balanced Titling Vehicles
+------------------------------
+
+Vehicles that tilt significantly in roll (and that are often
+
+Biomechanics
+------------
+
+Animal Motion
+~~~~~~~~~~~~~
+
+Animals have evolved a very large variety of ways to locomote from hopping,
+sliding, flywing, to multileg walking
+
+Sports Biomechanics
+-------------------
+
+The Skateboard Ollie
+~~~~~~~~~~~~~~~~~~~~
+
+Skateboarders are able to jump with the skateboard seemingly attached to their
+feet, yet it isn't. The technique is called the "ollie" and revolutionzed the
+sport when invented. The technique is now the foundation for hundreds of
+similar tricks. The skateboarder uses a combination of popping the board at and
+angle and then lifting the board usign the friction between their foot and the
+surface of the board to bring the board into the air. The goal of this project
+would be to develop a model of a skateboard that can be "ollied" and attempt to
+do so.
+
+Robots
+------
+
+Robotic Arms
+~~~~~~~~~~~~
+
+Boston Dynamic's Spot
+~~~~~~~~~~~~~~~~~~~~~
+
+Toys
+----
+
+The walking rabbit, the oloid, the rattleback,
+
+http://www.dct.tue.nl/New/Leine/toys.html
+
 
 Where to Find Other Ideas
 -------------------------
@@ -162,3 +178,4 @@ Where to Find Other Ideas
 - Sports Engineering https://link.springer.com/journal/12283
 - Journal of Sports Engineering and Technology http://journals.sagepub.com/home/pip
 - Vehicle System Dynamics
+- Computational Benchmark Problems: http://real.uwaterloo.ca/benchmarks
