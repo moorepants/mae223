@@ -16,16 +16,16 @@ here.
 --  -------------  ------------------------------------  -----------------  -----
 02  T Oct 01       Vectors, Ref. Frames, Ang. Rotation   - Ch. 1.2          `SymPy Tutorial`_
                                                          - `Video L02`_
-03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5       PS1: 1-11
+03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5
 --  -------------  ------------------------------------  -----------------  -----
-04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8
-05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8      PS2: 2,3,7,8,10,11
+04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8      PS1: 1-11
+05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8
 --  -------------  ------------------------------------  -----------------  -----
-06  T Oct 15       Configuration Constraints             - Ch. 2.9-2.11
-07  R Oct 17       Gen. Speeds and Motion Constraints    - Ch. 2.12-13      PS3: 1,3,4,6,10
+06  T Oct 15       Configuration Constraints             - Ch. 2.9-2.11     PS2: 2,3,7,8,10,11
+07  R Oct 17       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
 NA  F Oct 18                                                                Project Proposal
 --  -------------  ------------------------------------  -----------------  -----
-08  T Oct 22       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
+08  T Oct 22       Gen. Speeds and Motion Constraints    - Ch. 2.12-13      PS3: 1,3,4,6,10
 09  R Oct 24       Partial Velocities                    - Ch. 2.14
 --  -------------  ------------------------------------  -----------------  -----
 10  T Oct 29       Mass and Inertia                      - Ch. 3.1-3.4      - PS4: 2,3,7,8,11,13,14
@@ -34,16 +34,16 @@ NA  F Oct 18                                                                Proj
 NA  F Nov 01                                                                Exam 1 Due
 --  -------------  ------------------------------------  -----------------  -----
 12  T Nov 05       Principal Moments of Inertia          - Ch. 3.8-3.9      PS5: 5,6,7,8
-13  R Nov 07       Forces and Torques                    - Ch. 4.1-4.8      PS6: 1,7,8
+13  R Nov 07       Forces and Torques                    - Ch. 4.1-4.8
 --  -------------  ------------------------------------  -----------------  -----
 NA  M Nov 11       Veteran's Day Holiday
-15  T Nov 12       Generalized Active Forces             - Ch. 4.4
-16  R Nov 14       Generalized Inertia Forces            - Ch. 4.11, 6.1    PS7: 1,2,7
+15  T Nov 12       Generalized Active Forces             - Ch. 4.4          PS6: 1,7,8
+16  R Nov 14       Generalized Inertia Forces            - Ch. 4.11, 6.1
 --  -------------  ------------------------------------  -----------------  -----
-17  T Nov 19       Noncontributing Loads                 - Ch. 4.9
-18  R Nov 21       Simulation & Visualization            - Ch. 7.5          PS8: 1,2,3,4,6
+17  T Nov 19       Noncontributing Loads                 - Ch. 4.9          PS7: 1,2,7
+18  R Nov 21       Simulation & Visualization            - Ch. 7.5
 --  -------------  ------------------------------------  -----------------  -----
-19  T Nov 26       Simulating the rolling disc
+19  T Nov 26       Simulating the rolling disc                              PS8: 1,2,3,4,6
 NA  R Nov 28       Thanksgiving Holiday
 NA  F Nov 29       Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
