@@ -90,7 +90,7 @@ Project Ideas
 Benchmark Problems
 ------------------
 
-Computational Benchmark Problems: http://real.uwaterloo.ca/benchmarks
+Library of Computational Benchmark Problems: https://www.iftomm-multibody.org/benchmark
 
 Mechanisms
 ----------
