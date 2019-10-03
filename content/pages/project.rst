@@ -90,40 +90,77 @@ Project Ideas
 Mechanisms
 ----------
 
-There are thousands of intersting mechanisms. There are several collections of
-mechanisms:
+There are thousands of intersting mechanisms. Here are several collections of
+mechanisms to get some ideas from:
 
-- `Animated Mechanisms`_ - A huge searchable youtube video list of thousands of mechanisms and movements.
-- `Kinematic mechanisms - CornellU`_
+- `Nguyen Duc Thang' Animated Mechanisms`_ - A huge searchable youtube video
+  list of thousands of mechanisms and movements.
+- `Mechanism collection - TU Delft`_
+- `Kinematic Models for Digital Design Library`_
 - `507 Mechanical Movements`_
-- `Mechanism collection -TU Delft`_
 
 .. _Animated Mechanisms: https://www.youtube.com/user/thang010146/videos
-.. _Kinematic mechanisms - CornellU: http://kmoddl.library.cornell.edu/model.php
+.. _Mechanism collection - TU Delft: http://www.mechanisms.antonkb.nl/
+.. _Kinematic Models for Digital Design Library: http://kmoddl.library.cornell.edu/model.php
 .. _507 Mechanical Movements: http://507movements.com/
-.. _Mechanism collection -TU Delft: http://www.mechanisms.antonkb.nl/
 
-Theo Jansen's Straandbeesten
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kinetic Sculptures
+------------------
+
+Google searches for "kinetic sculptures" or "`kinetic art`_" will provide you
+with many interesting multibody systems. One of my favorites are the
+strandbeesten from Theo Jansen:
+
+.. _kinetic art: https://en.wikipedia.org/wiki/Kinetic_art
+
+Theo Jansen's Strandbeesten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Theo Jansen developed a multi-bar linkage that translates rotational motion
-into linear motion that works well for making walking machines. Modleling and
-analyzing this linkage or something similar would work well for a project.
+into linear motion that works well for making walking machines. He deploys it
+in his Strandbeesten "Beach Animals":
+
+.. raw:: html
+
+   <iframe width="560" height="315"
+   src="https://www.youtube.com/embed/LewVEF2B_pM" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen></iframe>
+
+Modeling and analyzing the leg linkages or something similar would work well
+for a project.
+
+- https://en.wikipedia.org/wiki/Theo_Jansen
+- https://www.strandbeest.com
 
 Vehicles
 --------
 
-Single Track Vehicles
-~~~~~~~~~~~~~~~~~~~~~
+Single Track and Titling Vehicles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-There are many interesting single track vehicles that would offer opportunties
-for mutlibody modeling. For example, bicycies, scooters, motorcycles,
-moncycles, single wheel trailers, titling vehicles. snake boards, unicycles
+Single track and titling vehicles are particularly interesting because they
+must be both balanced and directed. There are many interesting single track
+vehicles that would offer opportunties for mutlibody modeling. For example,
+bicycies, scooters, motorcycles, monocycles, single wheel trailers, titling
+vehicles.  snake boards, unicycles
 
-Gyro-Balanced Titling Vehicles
-------------------------------
+Some good papers:
 
-Vehicles that tilt significantly in roll (and that are often
+- Sharp, R. S. The Stability and Control of Motorcycles. Journal of Mechanical
+  Engineering Science 13, 316–329 (1971).
+- Meijaard, J. P., Papadopoulos, J. M., Ruina, A. & Schwab, A. L. Linearized
+  dynamics equations for the balance and steer of a bicycle: A benchmark and
+  review. Proceedings of the Royal Society A: Mathematical, Physical and
+  Engineering Sciences 463, 1955–1982 (2007).
+- Kooijman, J. D. G., Meijaard, J. P., Papadopoulos, J. M., Ruina, A. & Schwab,
+  A. L. A Bicycle Can Be Self-Stable Without Gyroscopic or Caster Effects.
+  Science 332, 339–342 (2011).
+- Karnopp, D. Tilt Control for Gyro-Stabilized Two-Wheeled Vehicles. Vehicle
+  System Dynamics 37, 145–156 (2002).
+
+The "`Bicycle and Motorcycle Dynamics <http:bmdconf.org>`_" conference has
+proceedings about these vehicles.
 
 Biomechanics
 ------------
@@ -133,6 +170,9 @@ Animal Motion
 
 Animals have evolved a very large variety of ways to locomote from hopping,
 sliding, flywing, to multileg walking
+
+Walking
+~~~~~~~
 
 Sports Biomechanics
 -------------------
@@ -164,6 +204,10 @@ Toys
 The walking rabbit, the oloid, the rattleback,
 
 http://www.dct.tue.nl/New/Leine/toys.html
+
+Make Luxo the Pixar Lamp Jump!
+
+
 
 
 Where to Find Other Ideas
