@@ -84,14 +84,234 @@ examples:
 - CFDPython: https://github.com/barbagroup/CFDPython
 - Notebook gallery: http://nb.bianp.net/sort/views/
 
-Where to Find Ideas
-===================
+Project Ideas
+=============
+
+Benchmark Problems
+------------------
+
+Computational Benchmark Problems: http://real.uwaterloo.ca/benchmarks
+
+Mechanisms
+----------
+
+.. raw:: html
+
+   <iframe width="560" height="315"
+   src="https://www.youtube.com/embed/CMQ241yGFtQ" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen></iframe>
+
+There are thousands of interesting mechanisms. Here are several collections of
+mechanisms to get some ideas from:
+
+- `Nguyen Duc Thang's Animated Mechanisms`_ - A huge searchable YouTube video
+  list of thousands of mechanisms and movements.
+- `Mechanism collection - TU Delft`_
+- `Kinematic Models for Digital Design Library`_
+- `507 Mechanical Movements`_
+
+.. _Nguyen Duc Thang's Animated Mechanisms: https://www.youtube.com/user/thang010146/videos
+.. _Mechanism collection - TU Delft: http://www.mechanisms.antonkb.nl/
+.. _Kinematic Models for Digital Design Library: http://kmoddl.library.cornell.edu/model.php
+.. _507 Mechanical Movements: http://507movements.com/
+
+Kinetic Sculptures
+------------------
+
+Google searches for "kinetic sculptures" or "`kinetic art`_" will provide you
+with many interesting multibody systems. One of my favorites are the
+strandbeesten from Theo Jansen:
+
+.. _kinetic art: https://en.wikipedia.org/wiki/Kinetic_art
+
+Theo Jansen's Strandbeesten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Theo Jansen developed a multi-bar linkage that translates rotational motion
+into linear motion that works well for making walking machines. He deploys it
+in his Strandbeesten "Beach Animals":
+
+.. raw:: html
+
+   <iframe width="560" height="315"
+   src="https://www.youtube.com/embed/LewVEF2B_pM" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen></iframe>
+
+Modeling and analyzing the leg linkages or something similar would work well
+for a project.
+
+- https://en.wikipedia.org/wiki/Theo_Jansen
+- https://www.strandbeest.com
+
+Vehicles
+--------
+
+Single Track and Titling Vehicles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Single track and titling vehicles are particularly interesting because they
+must be both balanced and directed. There are many interesting single track
+vehicles that would offer opportunities for multibody modeling. For example,
+bicycles, scooters, motorcycles, monocycles, single wheel trailers, titling
+vehicles, snake boards, unicycles, etc. `Wikipedia gives a good starting point
+<https://en.wikipedia.org/wiki/Bicycle_and_motorcycle_dynamics>`_.
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/5/5c/Bike_weaving.gif
+
+Some good papers:
+
+- Sharp, R. S. The Stability and Control of Motorcycles. Journal of Mechanical
+  Engineering Science 13, 316–329 (1971).
+- Meijaard, J. P., Papadopoulos, J. M., Ruina, A. & Schwab, A. L. Linearized
+  dynamics equations for the balance and steer of a bicycle: A benchmark and
+  review. Proceedings of the Royal Society A: Mathematical, Physical and
+  Engineering Sciences 463, 1955–1982 (2007).
+- Kooijman, J. D. G., Meijaard, J. P., Papadopoulos, J. M., Ruina, A. & Schwab,
+  A. L. A Bicycle Can Be Self-Stable Without Gyroscopic or Caster Effects.
+  Science 332, 339–342 (2011).
+- Karnopp, D. Tilt Control for Gyro-Stabilized Two-Wheeled Vehicles. Vehicle
+  System Dynamics 37, 145–156 (2002).
+
+The "`Bicycle and Motorcycle Dynamics <http://bmdconf.org>`_" conference has
+proceedings about these vehicles.
+
+Biomechanics
+------------
+
+Human Locomotion
+~~~~~~~~~~~~~~~~
+
+There a different "simple walking models" that could be appropriate for a class
+project. Here are some papers:
+
+- Collins, S., Ruina, A., Tedrake, R. & Wisse, M. Efficient Bipedal Robots
+  Based on Passive-Dynamic Walkers. Science 307, 1082–1085 (2005).
+- Garcia, M., Chatterjee, A., Ruina, A. & Coleman, M. The Simplest Walking
+  Model: Stability, Complexity, and Scaling. J Biomech Eng 120, 281–288 (1998).
+
+The Dynamic Walking conference has the best work on these topics. Here are the
+video abstracts from a past conference:
+http://robots.ihmc.us/dynamic-walking-abstracts-and-videos2012
+
+Animal Motion
+~~~~~~~~~~~~~
+
+Animals have evolved a very large variety of ways to locomote from hopping,
+sliding, flying, multi-legged walking, etc. Here are some related papers:
+
+- Schmitt, J. & Holmes, P. Mechanical models for insect locomotion: dynamics
+  and stability in the horizontal plane I. Theory. Biol Cybern 83, 501–515
+  (2000).
+- Koditschek, D. E. & Bühler, M. Analysis of a Simplified Hopping Robot. The
+  International Journal of Robotics Research 10, 587–605 (1991).
+- Hyon, S. H. & Mita, T. Development of a biologically inspired hopping
+  robot-"Kenken". in Proceedings 2002 IEEE International Conference on Robotics
+  and Automation (Cat. No.02CH37292) 4, 3984–3991 vol.4 (2002).
+- Brown, B. & Zeglin, G. The bow leg hopping robot. in Proceedings. 1998 IEEE
+  International Conference on Robotics and Automation (Cat. No.98CH36146) 1,
+  781–786 vol.1 (1998).
+
+.. raw:: html
+
+   <iframe width="560" height="315"
+   src="https://www.youtube.com/embed/M0ZXmGRCuts" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <iframe width="560" height="315"
+   src="https://www.youtube.com/embed/qFmeHPVtK0o" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen></iframe>
+
+Sports Biomechanics
+-------------------
+
+The Skateboard
+~~~~~~~~~~~~~~
+
+The basic skateboard dynamics offering a nice non-holomonic system to model.
+See this paper:
+
+Hubbard, M. Human control of the skateboard. Journal of Biomechanics 13,
+745–754 (1980).
+
+Another interesting aspects is that skateboarders are able to jump with the
+skateboard seemingly attached to their feet, yet it isn't. The technique is
+called the "ollie" and revolutionized the sport when invented. The technique is
+now the foundation for hundreds of similar tricks. The skateboarder uses a
+combination of popping the board at and angle and then lifting the board using
+the friction between their foot and the surface of the board to bring the board
+into the air. The goal of this project would be to develop a model of a
+skateboard that can be "ollied" and attempt to do so.
+
+.. raw:: html
+
+   <iframe width="560" height="315"
+   src="https://www.youtube.com/embed/339k4XEvbxY" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen></iframe>
+
+Toys
+----
+
+There are numerous toys that dynamicist's find interesting, for example the
+walking rabbit, the oloid, the rattleback, gyroscopes, snakeboards, etc. These
+often provide nicely scoped models for the class project.
+
+.. raw:: html
+
+   <iframe width="560" height="315"
+   src="https://www.youtube.com/embed/fRqwYsfiME8" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <iframe width="560" height="315"
+   src="https://www.youtube.com/embed/11NHjiEYnI0" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen></iframe>
+
+Others:
+
+- http://www.dct.tue.nl/New/Leine/toys.html
+
+Papers:
+
+- Kane, T. R. & Levinson, D. A. Realistic mathematical modeling of the
+  rattleback. International Journal of Non-Linear Mechanics 17, 175–186 (1982).
+- Garcia, A., Hubbard, M. & Bondi, H. Spin reversal of the rattleback: theory
+  and experiment. Proceedings of the Royal Society of London. A. Mathematical
+  and Physical Sciences 418, 165–197 (1988).
+
+Make Luxo the Pixar Lamp Jump!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Pixar modeled a lamp, Luxo_, back in 1986 to hop around like it was alive. They
+used multibody dynamics and space time optimization techniques. The original
+paper is:
+
+Witkin, A. & Kass, M. Spacetime Constraints. 10 (1988).
+
+.. _Luxo: https://en.wikipedia.org/wiki/Luxo_Jr
+
+Where to Find Other Ideas
+-------------------------
 
 - The mechanical_gifs subreddit usually has all kinds of fun machines that may
   inspire. http://reddit.com/r/mechanical_gifs
+
+Journals
+~~~~~~~~
+
 - The Journal of Multibody Dynamics http://journals.sagepub.com/home/pik
 - Multibody System Dynamics Journal http://www.springer.com/engineering/mechanics/journal/11044
 - Journal of Applied Mechanics http://appliedmechanics.asmedigitalcollection.asme.org/issue.aspx?journalid=112&issueid=26229
 - Journal of Biomechanics http://www.jbiomech.com/
 - Sports Engineering https://link.springer.com/journal/12283
 - Journal of Sports Engineering and Technology http://journals.sagepub.com/home/pip
+- Vehicle System Dynamics
