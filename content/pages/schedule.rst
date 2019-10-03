@@ -15,8 +15,10 @@ here.
                                                          - `IPYNB L01`_
 --  -------------  ------------------------------------  -----------------  -----
 02  T Oct 01       Vectors, Ref. Frames, Ang. Rotation   - Ch. 1.2          `SymPy Tutorial`_
+                                                         - `Notes L01`_
                                                          - `Video L02`_
 03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5
+                                                         - `Notes L02`_
 --  -------------  ------------------------------------  -----------------  -----
 04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8      PS1: 1-11
 05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8
@@ -77,24 +79,8 @@ correspond to the current lectures:
 
 .. _Video L02: https://objects-us-east-1.dream.io/mae223/2019f/hockey-stick.mp4
 
-.. _Notes L01: https://objects-us-east-1.dream.io/mae223/2019f/notes-l01.pdf
-.. _Notes L02: {filename}/lecture-notes/mae223-l2.pdf
-.. _Notes L03: {filename}/lecture-notes/mae223-l3.pdf
-.. _Notes L04: {filename}/lecture-notes/mae223-l4.pdf
-.. _Notes L05: {filename}/lecture-notes/mae223-l5.pdf
-.. _Notes L06: {filename}/lecture-notes/mae223-l6.pdf
-.. _Notes L07: {filename}/lecture-notes/mae223-l7.pdf
-.. _Notes L08: {filename}/lecture-notes/mae223-l8.pdf
-.. _Notes L09: {filename}/lecture-notes/mae223-l9.pdf
-.. _Notes L10: {filename}/lecture-notes/mae223-l10.pdf
-.. _Notes L11: {filename}/lecture-notes/mae223-l11.pdf
-.. _Notes L12: {filename}/lecture-notes/mae223-l12.pdf
-.. _Notes L13: {filename}/lecture-notes/mae223-l13.pdf
-.. _Notes L15: {filename}/lecture-notes/mae223-l15.pdf
-.. _Notes L17: {filename}/lecture-notes/mae223-l17.pdf
-.. _Notes L18: {filename}/lecture-notes/mae223-l18.pdf
-.. _Notes L20: {filename}/lecture-notes/mae223-l20.pdf
-.. _Notes L21: {filename}/lecture-notes/mae223-l21.pdf
+.. _Notes L02: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l02.pdf
+.. _Notes L03: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l03.pdf
 
 .. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
 .. _IPYNB L02: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l2.ipynb
