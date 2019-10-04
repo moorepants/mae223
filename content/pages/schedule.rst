@@ -16,9 +16,11 @@ here.
 --  -------------  ------------------------------------  -----------------  -----
 02  T Oct 01       Vectors, Ref. Frames, Ang. Rotation   - Ch. 1.2          `SymPy Tutorial`_
                                                          - `Notes L01`_
+                                                         - `IPYNB L02`_
                                                          - `Video L02`_
 03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5
                                                          - `Notes L02`_
+                                                         - `IPYNB L03`_
 --  -------------  ------------------------------------  -----------------  -----
 04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8      PS1: 1-11
 05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8
@@ -83,50 +85,7 @@ correspond to the current lectures:
 .. _Notes L03: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l03.pdf
 
 .. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
-.. _IPYNB L02: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l2.ipynb
-.. _IPYNB L03: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l3.ipynb
-.. _IPYNB L04: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l4.ipynb
-.. _IPYNB L05: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l5.ipynb
-.. _IPYNB L06: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l6.ipynb
-.. _IPYNB L08: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l8.ipynb
-.. _IPYNB L11: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l11.ipynb
-.. _IPYNB L12: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l12.ipynb
-.. _IPYNB L13: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l13.ipynb
-.. _IPYNB L16: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l16.ipynb
-.. _IPYNB L17-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l17_01.ipynb
-.. _IPYNB L17-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l17_02.ipynb
-.. _IPYNB L17-3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l17_03.ipynb
-.. _IPYNB L18-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l18_01.ipynb
-.. _IPYNB L18-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l18_02.ipynb
-.. _IPYNB L19-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l19_01.ipynb
-.. _IPYNB L19-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l19_02.ipynb
-.. _IPYNB L19-3: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l19_03.ipynb
-.. _IPYNB L20-1: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l20_01.ipynb
-.. _IPYNB L20-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l20_02.ipynb
-.. _IPYNB L21-2: https://nbviewer.jupyter.org/urls/moorepants.github.io/mae223/lecture-notebooks/mae223-l21_02.ipynb
-
-.. _Video L1: https://youtu.be/1Tyxgv7RUdk
-.. _Video L2: https://youtu.be/54N8e58pUTE
-.. _Video L3: https://youtu.be/R67f3_yTHw0
-.. _Video L4: https://youtu.be/a3etlNiw4dg
-.. _Video L5: https://youtu.be/-aT06kdLef8
-.. _Video L6: https://youtu.be/IrugVcQ5M_w
-.. _Video L7: https://youtu.be/qQM5fp3dKQU
-.. _Video L8: https://youtu.be/iqQYT2FIdGI
-.. _Video L9: https://youtu.be/fnJ2xnkG-_s
-.. _Video L10: https://youtu.be/xG3UYdc90Ho
-.. _Video L11: https://youtu.be/YHYDhDKXfKs
-.. _Video L12: https://youtu.be/Tc1tD8Ltw9g
-.. _Video L13: https://youtu.be/J_1ptsGIgm8
-.. _Video L14: https://youtu.be/CpCJ6bsZSnw
-.. _Video L15: https://youtu.be/Y0dmXiX3UME
-.. _Video L16: https://youtu.be/A-3dKopr-2I
-.. _Video L17: https://youtu.be/SK2KzADhO6M
-.. _Video L18: https://youtu.be/BtODJmo3ULU
-.. _Video L19: https://youtu.be/lO6hnGG-FxI
-.. _Video L20: https://youtu.be/Oou3ZItxtjM
-.. _Video L21: https://youtu.be/IsXSXJlC2xI
-
-.. _Opty: http://opty.readthedocs.io
+.. _IPYNB L02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l02.ipynb
+.. _IPYNB L03: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l03.ipynb
 
 .. _SymPy Tutorial: https://docs.sympy.org/latest/tutorial/
