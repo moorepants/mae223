@@ -21,7 +21,7 @@ PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_ORDER_BY = 'sortorder'
 
-STATIC_PATHS = ['lecture-notes', 'lecture-notebooks']
+STATIC_PATHS = ['lecture-notes', 'lecture-notebooks', 'homework-notebooks']
 IGNORE_FILES = ['README*']
 
 DEFAULT_PAGINATION = False
