@@ -22,8 +22,9 @@ here.
                                                          - `Notes L03`_
                                                          - `IPYNB L03`_
 --  -------------  ------------------------------------  -----------------  -----
-04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8      PS1: 1-11
-05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8
+04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8      - PS1: 1-11
+                                                         - `Notes L04`_
+05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8      - `Solutions PS1`_
 --  -------------  ------------------------------------  -----------------  -----
 06  T Oct 15       Configuration Constraints             - Ch. 2.9-2.11     PS2: 2,3,7,8,10,11
 07  R Oct 17       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
@@ -82,9 +83,18 @@ correspond to the current lectures:
 
 .. _Notes L02: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l02.pdf
 .. _Notes L03: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l03.pdf
+.. _Notes L04: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l04.pdf
+.. _Notes L05: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l05.pdf
+.. _Notes L06: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l06.pdf
+.. _Notes L07: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l07.pdf
+.. _Notes L08: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l08.pdf
+.. _Notes L09: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l09.pdf
+.. _Notes L10: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l10.pdf
 
 .. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
 .. _IPYNB L02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l02.ipynb
 .. _IPYNB L03: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l03.ipynb
+
+.. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae233-ps01.ipynb
 
 .. _SymPy Tutorial: https://docs.sympy.org/latest/tutorial/
