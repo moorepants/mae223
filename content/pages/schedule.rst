@@ -23,8 +23,8 @@ here.
                                                          - `IPYNB L03`_
 --  -------------  ------------------------------------  -----------------  -----
 04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8      - PS1: 1-11
-                                                         - `Notes L04`_
-05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8      - `Solutions PS1`_
+                                                         - `Notes L04`_     - `Solutions PS1`_
+05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8
 --  -------------  ------------------------------------  -----------------  -----
 06  T Oct 15       Configuration Constraints             - Ch. 2.9-2.11     PS2: 2,3,7,8,10,11
 07  R Oct 17       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
