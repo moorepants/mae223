@@ -10,32 +10,38 @@ here.
 ==  =============  ====================================  =================  =====
 #   Date           Topic                                 Materials          Assignment Due
 ==  =============  ====================================  =================  =====
-01  R Sep 26       - Introduction                        - Ch 1
-                   - Jupyter Introduction                - `Slides L01`_
-                                                         - `IPYNB L01`_
+01  R Sep 26       - Introduction                        - `Slides L01`_
+                   - Jupyter Introduction                - `IPYNB L01`_
 --  -------------  ------------------------------------  -----------------  -----
-02  T Oct 01       Vectors, Ref. Frames, Ang. Rotation   - Ch. 1.2          `SymPy Tutorial`_
+02  T Oct 01       - Vectors & Reference Frames          - Ch. 1.1-1.3      `SymPy Tutorial`_
                                                          - `Notes L02`_
                                                          - `IPYNB L02`_
                                                          - `Video L02`_
-03  R Oct 03       Angular Velocity and Acceleration     - Ch 2.1-2.5
+03  R Oct 03       - Vector Differentiation              - Ch 1.4-1.6
                                                          - `Notes L03`_
                                                          - `IPYNB L03`_
 --  -------------  ------------------------------------  -----------------  -----
-04  T Oct 08       Points and Linear Motion              - Ch. 2.6-2.8      - PS1: 1-11
-                                                         - `Notes L04`_     - `Solutions PS1`_
-05  R Oct 10       Linear Velocity and Acceleration      - Ch. 2.6-2.8
+04  T Oct 08       - Vector Differentiation              - Ch. 1.7-1.9      - PS1: 1-11
+                   - Angular Velocity                    - Ch. 2.1          - `Solutions PS1`_
+                                                         - `Notes L04`_
+05  R Oct 10       - Angular Velocity                    - Ch. 2.2-2.4
+                                                         - `Notes L05`_
+                                                         - `IPYNB L05`_
 --  -------------  ------------------------------------  -----------------  -----
-06  T Oct 15       Configuration Constraints             - Ch. 2.9-2.11     PS2: 2,3,7,8,10,11
-07  R Oct 17       Gen. Speeds and Motion Constraints    - Ch. 2.12-13
+06  T Oct 15       - Angular Acceleration                - Ch. 2.5          PS2: 2,3,7,8,10,11
+                   - Points and Linear Motion            - Ch. 2.6
+07  R Oct 17       - Velocity Thereoms                   - Ch. 2.7-2.8
 NA  F Oct 18                                                                Project Proposal
 --  -------------  ------------------------------------  -----------------  -----
-08  T Oct 22       Gen. Speeds and Motion Constraints    - Ch. 2.12-13      PS3: 1,3,4,6,10
-09  R Oct 24       Partial Velocities                    - Ch. 2.14
+08  T Oct 22       - Configuration Constraints           - Ch. 2.9          PS3: 1,3,4,6,10
+                   - Generalized Coordinates             - Ch. 2.10-1.11
+09  R Oct 24       - Generalized Speeds                  - Ch. 2.12
+                   - Motion Constraints                  - Ch. 2.13
 --  -------------  ------------------------------------  -----------------  -----
-10  T Oct 29       Mass and Inertia                      - Ch. 3.1-3.4      - PS4: 2,3,7,8,11,13,14
+10  T Oct 29       Partial Velocities                    - Ch. 2.14         - PS4: 2,3,7,8,11,13,14
                                                                             - Exam 1 Provided
-11  R Oct 31       Inertia: Tensors and Dyadics          - Ch. 3.5-3.6
+11  R Oct 31       Mass and Inertia                      - Ch. 3.1-3.4
+                   Inertia: Tensors and Dyadics          - Ch. 3.5-3.6
 NA  F Nov 01                                                                Exam 1 Due
 --  -------------  ------------------------------------  -----------------  -----
 12  T Nov 05       Principal Moments of Inertia          - Ch. 3.8-3.9      PS5: 5,6,7,8
@@ -48,7 +54,7 @@ NA  M Nov 11       Veteran's Day Holiday
 17  T Nov 19       Noncontributing Loads                 - Ch. 4.9          PS7: 1,2,7
 18  R Nov 21       Simulation & Visualization            - Ch. 7.5
 --  -------------  ------------------------------------  -----------------  -----
-19  T Nov 26       Simulating the rolling disc                              PS8: 1,2,3,4,6
+19  T Nov 26                                                                PS8: 1,2,3,4,6
 NA  R Nov 28       Thanksgiving Holiday
 NA  F Nov 29       Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
@@ -94,6 +100,7 @@ correspond to the current lectures:
 .. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
 .. _IPYNB L02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l02.ipynb
 .. _IPYNB L03: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l03.ipynb
+.. _IPYNB L05: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l05.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae233-ps01.ipynb
 
