@@ -98,15 +98,12 @@ correspond to the current lectures:
 .. _Notes L09: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l09.pdf
 .. _Notes L10: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l10.pdf
 
-.. For all of the notebooks you have to enter them into nbviewer manually
-   before the url will work!!!
-
 .. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
 .. _IPYNB L02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l02.ipynb
 .. _IPYNB L03: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l03.ipynb
 .. _IPYNB L05: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l05.ipynb
 
-.. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae233-ps01.ipynb
-.. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae233-ps02.ipynb
+.. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
+.. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
 
 .. _SymPy Tutorial: https://docs.sympy.org/latest/tutorial/
