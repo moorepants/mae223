@@ -28,8 +28,9 @@ here.
                                                          - `Notes L05`_
                                                          - `IPYNB L05`_
 --  -------------  ------------------------------------  -----------------  -----
-06  T Oct 15       - Angular Acceleration                - Ch. 2.5          PS2: 2,3,7,8,10,11
-                   - Points and Linear Motion            - Ch. 2.6
+06  T Oct 15       - Angular Acceleration                - Ch. 2.5          - PS2: 2,3,7,8,10,11
+                   - Points and Linear Motion            - Ch. 2.6          - `Solutions PS2`_
+                                                         - `Notes L06`_
 07  R Oct 17       - Velocity Thereoms                   - Ch. 2.7-2.8
 NA  F Oct 18                                                                Project Proposal
 --  -------------  ------------------------------------  -----------------  -----
@@ -103,5 +104,6 @@ correspond to the current lectures:
 .. _IPYNB L05: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l05.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae233-ps01.ipynb
+.. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae233-ps02.ipynb
 
 .. _SymPy Tutorial: https://docs.sympy.org/latest/tutorial/
