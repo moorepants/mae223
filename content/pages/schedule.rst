@@ -32,6 +32,7 @@ here.
                    - Points and Linear Motion            - Ch. 2.6          - `Solutions PS2`_
                                                          - `Notes L06`_
 07  R Oct 17       - Velocity Thereoms                   - Ch. 2.7-2.8
+                                                         - `IPYNB L07`_
 NA  F Oct 18                                                                Project Proposal
 --  -------------  ------------------------------------  -----------------  -----
 08  T Oct 22       - Configuration Constraints           - Ch. 2.9          PS3: 1,3,4,6,10
@@ -102,6 +103,7 @@ correspond to the current lectures:
 .. _IPYNB L02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l02.ipynb
 .. _IPYNB L03: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l03.ipynb
 .. _IPYNB L05: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l05.ipynb
+.. _IPYNB L07: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l07.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
