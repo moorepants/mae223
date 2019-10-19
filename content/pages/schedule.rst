@@ -32,6 +32,7 @@ here.
                    - Points and Linear Motion            - Ch. 2.6          - `Solutions PS2`_
                                                          - `Notes L06`_
 07  R Oct 17       - Velocity Thereoms                   - Ch. 2.7-2.8
+                                                         - `Notes L07`_
                                                          - `IPYNB L07`_
 NA  F Oct 18                                                                Project Proposal
 --  -------------  ------------------------------------  -----------------  -----
