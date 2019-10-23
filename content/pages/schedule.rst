@@ -38,6 +38,8 @@ NA  F Oct 18                                                                Proj
 --  -------------  ------------------------------------  -----------------  -----
 08  T Oct 22       - Configuration Constraints           - Ch. 2.9          PS3: 1,3,4,6,10
                    - Generalized Coordinates             - Ch. 2.10-1.11
+                                                         - `Notes L08`_
+                                                         - `IPYNB L08`_
 09  R Oct 24       - Generalized Speeds                  - Ch. 2.12
                    - Motion Constraints                  - Ch. 2.13
 --  -------------  ------------------------------------  -----------------  -----
@@ -105,6 +107,7 @@ correspond to the current lectures:
 .. _IPYNB L03: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l03.ipynb
 .. _IPYNB L05: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l05.ipynb
 .. _IPYNB L07: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l07.ipynb
+.. _IPYNB L08: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l08.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
