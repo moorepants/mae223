@@ -37,7 +37,7 @@ here.
 NA  F Oct 18                                                                Project Proposal
 --  -------------  ------------------------------------  -----------------  -----
 08  T Oct 22       - Configuration Constraints           - Ch. 2.9          PS3: 1,3,4,6,10
-                   - Generalized Coordinates             - Ch. 2.10-1.11
+                   - Generalized Coordinates             - Ch. 2.10-1.11    - `Solutions PS3`_
                                                          - `Notes L08`_
                                                          - `IPYNB L08`_
 09  R Oct 24       - Generalized Speeds                  - Ch. 2.12
@@ -111,5 +111,6 @@ correspond to the current lectures:
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
+.. _Solutions PS3: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps03.ipynb
 
 .. _SymPy Tutorial: https://docs.sympy.org/latest/tutorial/
