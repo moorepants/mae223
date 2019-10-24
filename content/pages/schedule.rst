@@ -36,7 +36,7 @@ here.
                                                          - `IPYNB L07`_
 NA  F Oct 18                                                                Project Proposal
 --  -------------  ------------------------------------  -----------------  -----
-08  T Oct 22       - Configuration Constraints           - Ch. 2.9          PS3: 1,3,4,6,10
+08  T Oct 22       - Configuration Constraints           - Ch. 2.9          - PS3: 1,3,4,6,10
                    - Generalized Coordinates             - Ch. 2.10-1.11    - `Solutions PS3`_
                                                          - `Notes L08`_
                                                          - `IPYNB L08`_
