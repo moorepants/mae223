@@ -42,6 +42,7 @@ NA  F Oct 18                                                                Proj
                                                          - `IPYNB L08`_
 09  R Oct 24       - Generalized Speeds                  - Ch. 2.12
                    - Motion Constraints                  - Ch. 2.13
+                                                         - `Notes L09`_
 --  -------------  ------------------------------------  -----------------  -----
 10  T Oct 29       Partial Velocities                    - Ch. 2.14         - PS4: 2,3,7,8,11,13,14
                                                                             - Exam 1 Provided
