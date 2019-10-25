@@ -61,28 +61,37 @@ office hours so that I can help you in this phase. This proposal should be no
 longer that three pages.
 
 Proposal Rubric
-^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~
 
 - [10] Research question
+
   - Defined a research question
   - Research question is present but not articulated clearly
   - Did not define a research question
+
 - [10] Literature review
+
   - Identified more than one relevant work or extensive discussion of at least
     one
   - Identified and discussed at least one relevant work
   - Did not look into the literature
+
 - [10] System description
+
   - System described from a dynamics perspective
   - System described but lacking in description of dynamics
   - System not described
+
 - [10] Methods description
+
   - Clear plan on how analysis and simulation may be used to answer research
     question
   - Plan on how to answer question is murky
   - No discussion of how analysis and simulation may be used to answer
     research question
+
 - [10] Writing
+
   - Clear, coherent, and well organized
   - Writing and organization needs improvement
   - Not clear, coherent, or well organized
