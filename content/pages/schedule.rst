@@ -44,10 +44,11 @@ NA  F Oct 18                                                                Proj
                    - Motion Constraints                  - Ch. 2.13
                                                          - `Notes L09`_
 --  -------------  ------------------------------------  -----------------  -----
-10  T Oct 29       Partial Velocities                    - Ch. 2.14         - PS4: 2,3,7,8,11,13,14
-                                                                            - Exam 1 Provided
-11  R Oct 31       Mass and Inertia                      - Ch. 3.1-3.4
-                   Inertia: Tensors and Dyadics          - Ch. 3.5-3.6
+10  T Oct 29       - Kinematic Diff. Eqs.                - `Notes L10`_     - PS4: 2,3,7,8,11,13,14
+                                                         - `IPYNB L10`_     - Exam 1 Provided
+11  R Oct 31       - Partial Velocities                  - Ch. 2.14
+                   - Mass and Inertia                    - Ch. 3.1-3.4
+                   - Inertia: Tensors and Dyadics        - Ch. 3.5-3.6
 NA  F Nov 01                                                                Exam 1 Due
 --  -------------  ------------------------------------  -----------------  -----
 12  T Nov 05       Principal Moments of Inertia          - Ch. 3.8-3.9      PS5: 5,6,7,8
@@ -109,6 +110,7 @@ correspond to the current lectures:
 .. _IPYNB L05: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l05.ipynb
 .. _IPYNB L07: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l07.ipynb
 .. _IPYNB L08: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l08.ipynb
+.. _IPYNB L10: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l10.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
