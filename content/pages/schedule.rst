@@ -47,12 +47,13 @@ NA  F Oct 18                                                                Proj
 10  T Oct 29       - Kinematic Diff. Eqs.                - `Notes L10`_     - PS4: 2,3,7,8,11,13,14
                                                          - `IPYNB L10`_     - Exam 1 Provided
 11  R Oct 31       - Partial Velocities                  - Ch. 2.14
-                   - Mass and Inertia                    - Ch. 3.1-3.4
-                   - Inertia: Tensors and Dyadics        - Ch. 3.5-3.6
+                                                         - `Notes L11`_
 NA  F Nov 01                                                                Exam 1 Due
 --  -------------  ------------------------------------  -----------------  -----
-12  T Nov 05       Principal Moments of Inertia          - Ch. 3.8-3.9      PS5: 5,6,7,8
-13  R Nov 07       Forces and Torques                    - Ch. 4.1-4.8
+12  T Nov 05       - Mass and Inertia                    - Ch. 3.1-3.4      PS5: 5,6,7,8
+                   - Inertia: Tensors and Dyadics        - Ch. 3.5-3.6
+13  R Nov 07       - Principal Moments of Inertia        - Ch. 3.8-3.9
+                   - Forces and Torques                  - Ch. 4.1-4.8
 --  -------------  ------------------------------------  -----------------  -----
 NA  M Nov 11       Veteran's Day Holiday
 15  T Nov 12       Generalized Active Forces             - Ch. 4.4          PS6: 1,7,8
@@ -103,6 +104,7 @@ correspond to the current lectures:
 .. _Notes L08: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l08.pdf
 .. _Notes L09: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l09.pdf
 .. _Notes L10: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l10.pdf
+.. _Notes L11: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l11.pdf
 
 .. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
 .. _IPYNB L02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l02.ipynb
