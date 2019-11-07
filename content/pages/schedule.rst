@@ -44,34 +44,39 @@ NA  F Oct 18                                                                Proj
                    - Motion Constraints                  - Ch. 2.13
                                                          - `Notes L09`_
 --  -------------  ------------------------------------  -----------------  -----
-10  T Oct 29       - Kinematic Diff. Eqs.                - `Notes L10`_     - PS4: 2,3,7,8,11,13,14
+10  T Oct 29       - Kinematic Diff. Eqs.                - `Notes L10`_
                                                          - `IPYNB L10`_     - Exam 1 Provided
 11  R Oct 31       - Partial Velocities                  - Ch. 2.14
                                                          - `Notes L11`_
 NA  F Nov 01                                                                Exam 1 Due
 --  -------------  ------------------------------------  -----------------  -----
-12  T Nov 05       - Mass and Inertia                    - Ch. 3.1-3.4      PS5: 5,6,7,8
+12  T Nov 05       - Partial Velocities
+13  R Nov 07       - Mass and Inertia                    - Ch. 3.1-3.4
                    - Inertia: Tensors and Dyadics        - Ch. 3.5-3.6
-13  R Nov 07       - Principal Moments of Inertia        - Ch. 3.8-3.9
-                   - Forces and Torques                  - Ch. 4.1-4.8
 --  -------------  ------------------------------------  -----------------  -----
 NA  M Nov 11       Veteran's Day Holiday
-15  T Nov 12       Generalized Active Forces             - Ch. 4.4          PS6: 1,7,8
-16  R Nov 14       Generalized Inertia Forces            - Ch. 4.11, 6.1
+15  T Nov 12       - Principal Moments of Inertia        - Ch. 3.8-3.9
+                   - Forces and Torques                  - Ch. 4.1-4.8
+16  R Nov 14       - Generalized Active Forces           - Ch. 4.4          - PS4: 2,3,7,8,11,13,14
+                   - Generalized Inertia Forces          - Ch. 4.11, 6.1
 --  -------------  ------------------------------------  -----------------  -----
-17  T Nov 19       Noncontributing Loads                 - Ch. 4.9          PS7: 1,2,7
+17  T Nov 19       Noncontributing Loads                 - Ch. 4.9          - PS5: 5,6,7,8
 18  R Nov 21       Simulation & Visualization            - Ch. 7.5
 --  -------------  ------------------------------------  -----------------  -----
-19  T Nov 26                                                                PS8: 1,2,3,4,6
+19  T Nov 26       Simulation & Visualization                               - PS6: 1,7,8
 NA  R Nov 28       Thanksgiving Holiday
 NA  F Nov 29       Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
-20  T Dec 03       Linearization                         - Ch. 6.4          Exam 2 Provided
+20  T Dec 03       Linearization                         - Ch. 6.4          - PS7: 1,2,7
+                                                                            - PS8: 1,2,3,4,6
+                                                                            - Exam 2 Provided
 21  R Dec 05       Alternative coordinates
 NA  F Dec 10                                                                Exam Due
 --  -------------  ------------------------------------  -----------------  -----
 NA  R Dec 12       **1:00-3:00PM** Proj. Presentations                      Project Report Due
 ==  =============  ====================================  =================  =====
+
+
 
 Videos
 ======
