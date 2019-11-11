@@ -21,14 +21,14 @@ here.
                                                          - `Notes L03`_
                                                          - `IPYNB L03`_
 --  -------------  ------------------------------------  -----------------  -----
-04  T Oct 08       - Vector Differentiation              - Ch. 1.7-1.9      - PS1: 1-11
+04  T Oct 08       - Vector Differentiation              - Ch. 1.7-1.9      - PS1 (Secs 1.1-1.9): 1-11
                    - Angular Velocity                    - Ch. 2.1          - `Solutions PS1`_
                                                          - `Notes L04`_
 05  R Oct 10       - Angular Velocity                    - Ch. 2.2-2.4
                                                          - `Notes L05`_
                                                          - `IPYNB L05`_
 --  -------------  ------------------------------------  -----------------  -----
-06  T Oct 15       - Angular Acceleration                - Ch. 2.5          - PS2: 2,3,7,8,10,11
+06  T Oct 15       - Angular Acceleration                - Ch. 2.5          - PS2 (Secs 2.1-2.5): 2,3,7,8,10,11
                    - Points and Linear Motion            - Ch. 2.6          - `Solutions PS2`_
                                                          - `Notes L06`_
 07  R Oct 17       - Velocity Thereoms                   - Ch. 2.7-2.8
@@ -36,7 +36,7 @@ here.
                                                          - `IPYNB L07`_
 NA  F Oct 18                                                                Project Proposal
 --  -------------  ------------------------------------  -----------------  -----
-08  T Oct 22       - Configuration Constraints           - Ch. 2.9          - PS3: 1,3,4,6,10
+08  T Oct 22       - Configuration Constraints           - Ch. 2.9          - PS3 (Secs 2.6-2.8): 1,3,4,6,10
                    - Generalized Coordinates             - Ch. 2.10-1.11    - `Solutions PS3`_
                                                          - `Notes L08`_
                                                          - `IPYNB L08`_
@@ -50,32 +50,34 @@ NA  F Oct 18                                                                Proj
                                                          - `Notes L11`_
 NA  F Nov 01                                                                Exam 1 Due
 --  -------------  ------------------------------------  -----------------  -----
-12  T Nov 05       - Partial Velocities
+12  T Nov 05       - Partial Velocities                  - `Notes L12`_
+                                                         - `IPYNB L12`_
 13  R Nov 07       - Mass and Inertia                    - Ch. 3.1-3.4
                    - Inertia: Tensors and Dyadics        - Ch. 3.5-3.6
+                                                         - `Notes L13`_
+                                                         - `IPYNB L13`_
 --  -------------  ------------------------------------  -----------------  -----
 NA  M Nov 11       Veteran's Day Holiday
-15  T Nov 12       - Principal Moments of Inertia        - Ch. 3.8-3.9
+15  T Nov 12       - Principal Moments of Inertia        - Ch. 3.8-3.9      - PS4 (Secs 2.9-2.15): 2,3,7,8,11,13,14
                    - Forces and Torques                  - Ch. 4.1-4.8
-16  R Nov 14       - Generalized Active Forces           - Ch. 4.4          - PS4: 2,3,7,8,11,13,14
+16  R Nov 14       - Generalized Active Forces           - Ch. 4.4
                    - Generalized Inertia Forces          - Ch. 4.11, 6.1
 --  -------------  ------------------------------------  -----------------  -----
-17  T Nov 19       Noncontributing Loads                 - Ch. 4.9          - PS5: 5,6,7,8
+17  T Nov 19       Simulation & Visualization            - Ch. 7.5          - PS5 (Secs 3.1-3.5): 5,6,7,8
+                                                                            - PS6 (Secs 3.6-3.9): 1,7,8
 18  R Nov 21       Simulation & Visualization            - Ch. 7.5
 --  -------------  ------------------------------------  -----------------  -----
-19  T Nov 26       Simulation & Visualization                               - PS6: 1,7,8
+19  T Nov 26       Noncontributing Loads                 - Ch. 4.9          - PS7 (Secs 4.1-4.3): 1,2,7
 NA  R Nov 28       Thanksgiving Holiday
 NA  F Nov 29       Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
-20  T Dec 03       Linearization                         - Ch. 6.4          - PS7: 1,2,7
-                                                                            - PS8: 1,2,3,4,6
+20  T Dec 03       Linearization                         - Ch. 6.4          - PS8 (Secs 4.4-4.11): 1,2,3,4,6
                                                                             - Exam 2 Provided
 21  R Dec 05       Alternative coordinates
 NA  F Dec 10                                                                Exam Due
 --  -------------  ------------------------------------  -----------------  -----
 NA  R Dec 12       **1:00-3:00PM** Proj. Presentations                      Project Report Due
 ==  =============  ====================================  =================  =====
-
 
 
 Videos
@@ -110,6 +112,16 @@ correspond to the current lectures:
 .. _Notes L09: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l09.pdf
 .. _Notes L10: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l10.pdf
 .. _Notes L11: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l11.pdf
+.. _Notes L12: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l12.pdf
+.. _Notes L13: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l13.pdf
+.. _Notes L14: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l14.pdf
+.. _Notes L15: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l15.pdf
+.. _Notes L16: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l16.pdf
+.. _Notes L17: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l17.pdf
+.. _Notes L18: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l18.pdf
+.. _Notes L19: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l19.pdf
+.. _Notes L20: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l20.pdf
+.. _Notes L21: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l21.pdf
 
 .. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
 .. _IPYNB L02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l02.ipynb
@@ -118,6 +130,8 @@ correspond to the current lectures:
 .. _IPYNB L07: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l07.ipynb
 .. _IPYNB L08: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l08.ipynb
 .. _IPYNB L10: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l10.ipynb
+.. _IPYNB L12: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l12.ipynb
+.. _IPYNB L13: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l13.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
