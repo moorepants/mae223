@@ -60,8 +60,11 @@ NA  F Nov 01                                                                Exam
 NA  M Nov 11       Veteran's Day Holiday
 15  T Nov 12       - Principal Moments of Inertia        - Ch. 3.8-3.9      - PS4 (Secs 2.9-2.15): 2,3,7,8,11,13,14
                    - Forces and Torques                  - Ch. 4.1-4.8
+                                                         - `Notes L14`_
+                                                         - `IPYNB L14`_
 16  R Nov 14       - Generalized Active Forces           - Ch. 4.4
                    - Generalized Inertia Forces          - Ch. 4.11, 6.1
+                                                         - `Notes L15`_
 --  -------------  ------------------------------------  -----------------  -----
 17  T Nov 19       Simulation & Visualization            - Ch. 7.5          - PS5 (Secs 3.1-3.5): 5,6,7,8
                                                                             - PS6 (Secs 3.6-3.9): 1,7,8
@@ -132,6 +135,7 @@ correspond to the current lectures:
 .. _IPYNB L10: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l10.ipynb
 .. _IPYNB L12: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l12.ipynb
 .. _IPYNB L13: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l13.ipynb
+.. _IPYNB L14: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l14.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
