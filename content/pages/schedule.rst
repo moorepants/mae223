@@ -59,6 +59,7 @@ NA  F Nov 01                                                                Exam
 --  -------------  ------------------------------------  -----------------  -----
 NA  M Nov 11       Veteran's Day Holiday
 15  T Nov 12       - Principal Moments of Inertia        - Ch. 3.8-3.9      - PS4 (Secs 2.9-2.15): 2,3,7,8,11,13,14
+                                                                            - `Solutions PS4`_
                    - Forces and Torques                  - Ch. 4.1-4.8
                                                          - `Notes L14`_
                                                          - `IPYNB L14`_
@@ -140,5 +141,6 @@ correspond to the current lectures:
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
 .. _Solutions PS3: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps03.ipynb
+.. _Solutions PS4: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps04.ipynb
 
 .. _SymPy Tutorial: https://docs.sympy.org/latest/tutorial/
