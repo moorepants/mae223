@@ -58,28 +58,31 @@ NA  F Nov 01                                                                Exam
                                                          - `IPYNB L13`_
 --  -------------  ------------------------------------  -----------------  -----
 NA  M Nov 11       Veteran's Day Holiday
-15  T Nov 12       - Principal Moments of Inertia        - Ch. 3.8-3.9      - PS4 (Secs 2.9-2.15): 2,3,7,8,11,13,14
+14  T Nov 12       - Principal Moments of Inertia        - Ch. 3.8-3.9      - PS4 (Secs 2.9-2.15): 2,3,7,8,11,13,14
                                                                             - `Solutions PS4`_
                    - Forces and Torques                  - Ch. 4.1-4.8
                                                          - `Notes L14`_
                                                          - `IPYNB L14`_
-16  R Nov 14       - Generalized Active Forces           - Ch. 4.4
+15  R Nov 14       - Generalized Active Forces           - Ch. 4.4
                                                          - `Notes L15`_
                                                          - `IPYNB L15`_
 --  -------------  ------------------------------------  -----------------  -----
-17  T Nov 19       - Generalized Inertia Forces          - Ch. 4.11         - PS5 (Secs 3.1-3.5): 5,6,7,8
+16  T Nov 19       - Generalized Inertia Forces          - Ch. 4.11         - PS5 (Secs 3.1-3.5): 5,6,7,8
                                                          - `Notes L16`_     - PS6 (Secs 3.6-3.9): 1,7,8
-18  R Nov 21       - Generalized Inertia Forces          - Ch. 6.1
-                   - Simulation & Visualization          - Ch. 7.5
+17  R Nov 21       - Generalized Inertia Forces          - Ch. 4.11
+                   - Kane's Equations                    - Ch. 6.1
+                                                         - `Notes L17`_
+                                                         - `IPYNB L17`_
 --  -------------  ------------------------------------  -----------------  -----
-19  T Nov 26       - Simulation & Visualization                             - PS7 (Secs 4.1-4.3): 1,2,7
-NA  R Nov 28       Thanksgiving Holiday
-NA  F Nov 29       Thanksgiving Holiday
+18  T Nov 26       - Simulation & Visualization                             - PS7 (Secs 4.1-4.3): 1,2,7
+NA  R Nov 28       - Thanksgiving Holiday
+NA  F Nov 29       - Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
-20  T Dec 03       - Noncontributing Loads                 - Ch. 4.9        - PS8 (Secs 4.4-4.11): 1,2,3,4,6
+19  T Dec 03       - Noncontributing Loads                 - Ch. 4.9        - PS8 (Secs 4.4-4.11): 1,2,3,4,6
                    - Linearization                         - Ch. 6.4        - Exam 2 Provided
-21  R Dec 05       Alternative coordinates
-NA  F Dec 10                                                                Exam Due
+20  R Dec 05       - Alternative coordinates
+                   - Typical forces
+NA  F Dec 06                                                                Exam Due
 --  -------------  ------------------------------------  -----------------  -----
 NA  R Dec 12       **1:00-3:00PM** Proj. Presentations                      Project Report Due
 ==  =============  ====================================  =================  =====
@@ -126,7 +129,6 @@ correspond to the current lectures:
 .. _Notes L18: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l18.pdf
 .. _Notes L19: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l19.pdf
 .. _Notes L20: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l20.pdf
-.. _Notes L21: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l21.pdf
 
 .. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
 .. _IPYNB L02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l02.ipynb
@@ -139,6 +141,7 @@ correspond to the current lectures:
 .. _IPYNB L13: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l13.ipynb
 .. _IPYNB L14: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l14.ipynb
 .. _IPYNB L15: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l15.ipynb
+.. _IPYNB L17: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l17.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
