@@ -74,7 +74,7 @@ NA  M Nov 11       Veteran's Day Holiday
                                                          - `Notes L17`_
                                                          - `IPYNB L17`_
 --  -------------  ------------------------------------  -----------------  -----
-18  T Nov 26       - Simulation & Visualization                             - PS7 (Secs 4.1-4.3): 1,2,7
+18  T Nov 26       - Simulation & Visualization          - `IPYNB L18-01`_  - PS7 (Secs 4.1-4.3): 1,2,7
 NA  R Nov 28       - Thanksgiving Holiday
 NA  F Nov 29       - Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
@@ -142,6 +142,7 @@ correspond to the current lectures:
 .. _IPYNB L14: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l14.ipynb
 .. _IPYNB L15: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l15.ipynb
 .. _IPYNB L17: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l17.ipynb
+.. _IPYNB L18-01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l18-01.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
