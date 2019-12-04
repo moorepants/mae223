@@ -80,10 +80,11 @@ NA  M Nov 11       Veteran's Day Holiday
 NA  R Nov 28       - Thanksgiving Holiday
 NA  F Nov 29       - Thanksgiving Holiday
 --  -------------  ------------------------------------  -----------------  -----
-19  T Dec 03       - Noncontributing Loads                 - Ch. 4.9        - PS8 (Secs 4.4-4.11): 1,2,3,4,6
-                   - Linearization                         - Ch. 6.4        - Exam 2 Provided
-20  R Dec 05       - Alternative coordinates
-                   - Typical forces
+19  T Dec 03       - Noncontributing Loads               - Ch. 4.9          - PS8 (Secs 4.4-4.11): 1,2,3,4,6
+                   - Alternative coordinates             - `IPYNB L19-01`_  - Exam 2 Provided
+                                                         - `IPYNB L19-02`_
+20  R Dec 05       - Quaternions
+                   - Linearization                       - Ch. 6.4
 NA  F Dec 06                                                                Exam Due
 --  -------------  ------------------------------------  -----------------  -----
 NA  R Dec 12       **1:00-3:00PM** Proj. Presentations                      Project Report Due
@@ -147,6 +148,8 @@ correspond to the current lectures:
 .. _IPYNB L18-01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l18-01.ipynb
 .. _IPYNB L18-02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l18-02.ipynb
 .. _IPYNB L18-03: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l18-03.ipynb
+.. _IPYNB L19-01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l19-01.ipynb
+.. _IPYNB L19-02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l19-02.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
