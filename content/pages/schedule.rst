@@ -83,6 +83,7 @@ NA  F Nov 29       - Thanksgiving Holiday
 19  T Dec 03       - Noncontributing Loads               - Ch. 4.9          - PS8 (Secs 4.4-4.11): 1,2,3,4,6
                    - Alternative coordinates             - `IPYNB L19-01`_  - Exam 2 Provided
                                                          - `IPYNB L19-02`_
+                                                         - `Notes L19`_
 20  R Dec 05       - Quaternions
                    - Linearization                       - Ch. 6.4
 NA  F Dec 06                                                                Exam Due
