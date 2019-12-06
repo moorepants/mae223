@@ -7,7 +7,7 @@ import boto
 course = 'mae223'
 year = '2019'
 quarter = 'f'  # f: fall, w: winter, s: spring
-accepted_file_exts = ['.pdf', '.png', '.gif', '.mp4', '.jpg']
+accepted_file_exts = ['.pdf', '.png', '.gif', '.mp4', '.jpg', '.ipynb']
 
 conn = boto.connect_s3(host='objects-us-east-1.dream.io')
 
