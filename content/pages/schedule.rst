@@ -154,7 +154,7 @@ correspond to the current lectures:
 .. _IPYNB L19-01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l19-01.ipynb
 .. _IPYNB L19-02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l19-02.ipynb
 .. _IPYNB L20: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l20.ipynb
-.. _4bar NB: https://nbviewer.jupyter.org/urls/objects-us-east-1.dream.io/mae223/2019f/four_bar_linkage.ipynb
+.. _4bar NB: https://nbviewer.jupyter.org/url/www.moorepants.info/misc/four_bar_linkage.ipynb
 
 .. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
 .. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
