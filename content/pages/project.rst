@@ -102,6 +102,62 @@ Thursday, December 12th
 The final report is due. No submissions will be accepted after this date due to
 the time needed to grade them.
 
+Project Rubric
+~~~~~~~~~~~~~~
+
+Score will be between 50-100.
+
+- [5] Research question
+
+  - Research question is present and clearly defined.
+  - Research question is present but not articulated clearly.
+  - Did not define a research question.
+
+- [10] System and model description
+
+  - Text, equations, and figures are used to clearly describe the
+    configuration, possible motion, inertial characteristics, and important
+    loads acting on and of the system.
+  - Text, equations, or figures are used to describe the configuration,
+    possible motion, inertial characteristics, and important loads acting on
+    and of the system, but not all aspects are clear.
+  - System and model poorly described without text, equations, and figures.
+
+- [10] Model Design
+
+  - Model is designed with sufficient complexity to answer your research
+    question and is not overly complex.
+  - Model is designed with sufficient complexity to answer your research
+    question.
+  - Model is not appropriate for answering research question.
+
+- [10] Model Correctness
+
+  - Equations of motion are correct and simulation shows that the model behaves
+    as expected.
+  - Equations of motion are mostly correct and simulation shows the model
+    mostly behaves as expected.
+  - Equations of motion are incorrect and model does not behave as expected.
+
+- [10] Analysis and Interpretation
+
+  - Simulation or other analysis is demonstrated through text, plots, and
+    optionally animations to address the research question. Interpretation of
+    the results is correct and answers the research question.
+  - Simulation or other analysis is demonstrated through text, plots, and
+    optionally animations to address the research question. Interpretation of
+    the results is mostly correct and answers the research question.
+  - Simulation or other analysis not present and research question is not
+    answered.
+
+- [5] Writing
+
+  - Clear, coherent, and well organized. All variables defined, plots labeled
+    and explained. No extraneous elements in the notebook.
+  - Writing and organization needs improvement; missing clarity, organization,
+    variable definitions, labeled and explained plots, etc.
+  - Not clear, coherent, or well organized.
+
 Thursday, December 12th
 -----------------------
 
